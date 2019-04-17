@@ -1,0 +1,25 @@
+﻿<Window x:Class="Lab_14_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_14_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="Auto" Width="Auto">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Button x:Name="Button01" Grid.Row="0" Grid.Column="0" Background="Thistle" Click="Button01_Click" />
+        <Label x:Name="Label01" Grid.Row="0" Grid.Column="1" Background="#23f14a" />
+        <ListBox x:Name="ListBox01" Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" Background="#ab274d" />
+        <Button x:Name="Button02" Grid.Row="1" Grid.Column="0" Background="#4c5a34" Click="Button02_Click" />
+    </Grid>
+</Window>
