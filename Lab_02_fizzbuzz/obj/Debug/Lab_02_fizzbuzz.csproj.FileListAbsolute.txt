@@ -1,0 +1,7 @@
+C:\Labs\Labs\Lab_02_fizzbuzz\bin\Debug\Lab_02_fizzbuzz.exe.config
+C:\Labs\Labs\Lab_02_fizzbuzz\bin\Debug\Lab_02_fizzbuzz.exe
+C:\Labs\Labs\Lab_02_fizzbuzz\bin\Debug\Lab_02_fizzbuzz.pdb
+C:\Labs\Labs\Lab_02_fizzbuzz\obj\Debug\Lab_02_fizzbuzz.csprojAssemblyReference.cache
+C:\Labs\Labs\Lab_02_fizzbuzz\obj\Debug\Lab_02_fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Labs\Labs\Lab_02_fizzbuzz\obj\Debug\Lab_02_fizzbuzz.exe
+C:\Labs\Labs\Lab_02_fizzbuzz\obj\Debug\Lab_02_fizzbuzz.pdb
