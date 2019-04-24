@@ -1,0 +1,11 @@
+C:\c-\Labs_trycatch\bin\Debug\netcoreapp2.1\Labs_trycatch.deps.json
+C:\c-\Labs_trycatch\bin\Debug\netcoreapp2.1\Labs_trycatch.runtimeconfig.json
+C:\c-\Labs_trycatch\bin\Debug\netcoreapp2.1\Labs_trycatch.runtimeconfig.dev.json
+C:\c-\Labs_trycatch\bin\Debug\netcoreapp2.1\Labs_trycatch.dll
+C:\c-\Labs_trycatch\bin\Debug\netcoreapp2.1\Labs_trycatch.pdb
+C:\c-\Labs_trycatch\obj\Debug\netcoreapp2.1\Labs_trycatch.csprojAssemblyReference.cache
+C:\c-\Labs_trycatch\obj\Debug\netcoreapp2.1\Labs_trycatch.csproj.CoreCompileInputs.cache
+C:\c-\Labs_trycatch\obj\Debug\netcoreapp2.1\Labs_trycatch.AssemblyInfoInputs.cache
+C:\c-\Labs_trycatch\obj\Debug\netcoreapp2.1\Labs_trycatch.AssemblyInfo.cs
+C:\c-\Labs_trycatch\obj\Debug\netcoreapp2.1\Labs_trycatch.dll
+C:\c-\Labs_trycatch\obj\Debug\netcoreapp2.1\Labs_trycatch.pdb

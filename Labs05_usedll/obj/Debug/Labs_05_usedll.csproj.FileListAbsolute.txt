@@ -1,0 +1,10 @@
+C:\c-\Labs05_usedll\bin\Debug\Labs05_usedll.exe.config
+C:\c-\Labs05_usedll\bin\Debug\Labs05_usedll.exe
+C:\c-\Labs05_usedll\bin\Debug\Labs05_usedll.pdb
+C:\c-\Labs05_usedll\bin\Debug\Labs04.dll
+C:\c-\Labs05_usedll\bin\Debug\Labs04.pdb
+C:\c-\Labs05_usedll\obj\Debug\Labs_05_usedll.csprojAssemblyReference.cache
+C:\c-\Labs05_usedll\obj\Debug\Labs_05_usedll.csproj.CoreCompileInputs.cache
+C:\c-\Labs05_usedll\obj\Debug\Labs_05_usedll.csproj.CopyComplete
+C:\c-\Labs05_usedll\obj\Debug\Labs05_usedll.exe
+C:\c-\Labs05_usedll\obj\Debug\Labs05_usedll.pdb

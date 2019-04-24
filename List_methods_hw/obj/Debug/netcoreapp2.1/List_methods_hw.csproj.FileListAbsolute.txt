@@ -1,0 +1,10 @@
+C:\c-\List_methods_hw\bin\Debug\netcoreapp2.1\List_methods_hw.deps.json
+C:\c-\List_methods_hw\bin\Debug\netcoreapp2.1\List_methods_hw.runtimeconfig.json
+C:\c-\List_methods_hw\bin\Debug\netcoreapp2.1\List_methods_hw.runtimeconfig.dev.json
+C:\c-\List_methods_hw\bin\Debug\netcoreapp2.1\List_methods_hw.dll
+C:\c-\List_methods_hw\bin\Debug\netcoreapp2.1\List_methods_hw.pdb
+C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.csproj.CoreCompileInputs.cache
+C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.AssemblyInfoInputs.cache
+C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.AssemblyInfo.cs
+C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.dll
+C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.pdb

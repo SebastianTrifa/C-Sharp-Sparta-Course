@@ -8,3 +8,13 @@ C:\Labs\Labs\Labs_05\obj\Debug\Labs_05.csproj.GenerateResource.cache
 C:\Labs\Labs\Labs_05\obj\Debug\Labs_05.csproj.CoreCompileInputs.cache
 C:\Labs\Labs\Labs_05\obj\Debug\Labs_05.exe
 C:\Labs\Labs\Labs_05\obj\Debug\Labs_05.pdb
+C:\c-\Labs_05\bin\Debug\Labs_05.exe.config
+C:\c-\Labs_05\bin\Debug\Labs_05.exe
+C:\c-\Labs_05\bin\Debug\Labs_05.pdb
+C:\c-\Labs_05\obj\Debug\Labs_05.csprojAssemblyReference.cache
+C:\c-\Labs_05\obj\Debug\Labs_05.Form1.resources
+C:\c-\Labs_05\obj\Debug\Labs_05.Properties.Resources.resources
+C:\c-\Labs_05\obj\Debug\Labs_05.csproj.GenerateResource.cache
+C:\c-\Labs_05\obj\Debug\Labs_05.csproj.CoreCompileInputs.cache
+C:\c-\Labs_05\obj\Debug\Labs_05.exe
+C:\c-\Labs_05\obj\Debug\Labs_05.pdb

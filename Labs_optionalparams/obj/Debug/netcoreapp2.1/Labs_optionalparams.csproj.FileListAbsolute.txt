@@ -1,0 +1,11 @@
+C:\c-\Labs_optionalparams\bin\Debug\netcoreapp2.1\Labs_optionalparams.deps.json
+C:\c-\Labs_optionalparams\bin\Debug\netcoreapp2.1\Labs_optionalparams.runtimeconfig.json
+C:\c-\Labs_optionalparams\bin\Debug\netcoreapp2.1\Labs_optionalparams.runtimeconfig.dev.json
+C:\c-\Labs_optionalparams\bin\Debug\netcoreapp2.1\Labs_optionalparams.dll
+C:\c-\Labs_optionalparams\bin\Debug\netcoreapp2.1\Labs_optionalparams.pdb
+C:\c-\Labs_optionalparams\obj\Debug\netcoreapp2.1\Labs_optionalparams.csprojAssemblyReference.cache
+C:\c-\Labs_optionalparams\obj\Debug\netcoreapp2.1\Labs_optionalparams.csproj.CoreCompileInputs.cache
+C:\c-\Labs_optionalparams\obj\Debug\netcoreapp2.1\Labs_optionalparams.AssemblyInfoInputs.cache
+C:\c-\Labs_optionalparams\obj\Debug\netcoreapp2.1\Labs_optionalparams.AssemblyInfo.cs
+C:\c-\Labs_optionalparams\obj\Debug\netcoreapp2.1\Labs_optionalparams.dll
+C:\c-\Labs_optionalparams\obj\Debug\netcoreapp2.1\Labs_optionalparams.pdb

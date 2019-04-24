@@ -1,0 +1,11 @@
+C:\c-\Labs_game\bin\Debug\netcoreapp2.1\Labs_game.deps.json
+C:\c-\Labs_game\bin\Debug\netcoreapp2.1\Labs_game.runtimeconfig.json
+C:\c-\Labs_game\bin\Debug\netcoreapp2.1\Labs_game.runtimeconfig.dev.json
+C:\c-\Labs_game\bin\Debug\netcoreapp2.1\Labs_game.dll
+C:\c-\Labs_game\bin\Debug\netcoreapp2.1\Labs_game.pdb
+C:\c-\Labs_game\obj\Debug\netcoreapp2.1\Labs_game.csprojAssemblyReference.cache
+C:\c-\Labs_game\obj\Debug\netcoreapp2.1\Labs_game.csproj.CoreCompileInputs.cache
+C:\c-\Labs_game\obj\Debug\netcoreapp2.1\Labs_game.AssemblyInfoInputs.cache
+C:\c-\Labs_game\obj\Debug\netcoreapp2.1\Labs_game.AssemblyInfo.cs
+C:\c-\Labs_game\obj\Debug\netcoreapp2.1\Labs_game.dll
+C:\c-\Labs_game\obj\Debug\netcoreapp2.1\Labs_game.pdb

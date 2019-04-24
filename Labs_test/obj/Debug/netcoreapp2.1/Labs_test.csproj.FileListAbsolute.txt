@@ -1,0 +1,3 @@
+C:\c-\Labs_test\obj\Debug\netcoreapp2.1\Labs_test.csproj.CoreCompileInputs.cache
+C:\c-\Labs_test\obj\Debug\netcoreapp2.1\Labs_test.AssemblyInfoInputs.cache
+C:\c-\Labs_test\obj\Debug\netcoreapp2.1\Labs_test.AssemblyInfo.cs

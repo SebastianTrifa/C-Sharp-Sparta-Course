@@ -1,0 +1,10 @@
+C:\c-\Labs_Parameters\bin\Debug\netcoreapp2.1\Labs_Parameters.deps.json
+C:\c-\Labs_Parameters\bin\Debug\netcoreapp2.1\Labs_Parameters.runtimeconfig.json
+C:\c-\Labs_Parameters\bin\Debug\netcoreapp2.1\Labs_Parameters.runtimeconfig.dev.json
+C:\c-\Labs_Parameters\bin\Debug\netcoreapp2.1\Labs_Parameters.dll
+C:\c-\Labs_Parameters\bin\Debug\netcoreapp2.1\Labs_Parameters.pdb
+C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.csproj.CoreCompileInputs.cache
+C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.AssemblyInfoInputs.cache
+C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.AssemblyInfo.cs
+C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.dll
+C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.pdb

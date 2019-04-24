@@ -1,0 +1,11 @@
+C:\c-\Labs_classprop\bin\Debug\netcoreapp2.1\Labs_classprop.deps.json
+C:\c-\Labs_classprop\bin\Debug\netcoreapp2.1\Labs_classprop.runtimeconfig.json
+C:\c-\Labs_classprop\bin\Debug\netcoreapp2.1\Labs_classprop.runtimeconfig.dev.json
+C:\c-\Labs_classprop\bin\Debug\netcoreapp2.1\Labs_classprop.dll
+C:\c-\Labs_classprop\bin\Debug\netcoreapp2.1\Labs_classprop.pdb
+C:\c-\Labs_classprop\obj\Debug\netcoreapp2.1\Labs_classprop.csproj.CoreCompileInputs.cache
+C:\c-\Labs_classprop\obj\Debug\netcoreapp2.1\Labs_classprop.AssemblyInfoInputs.cache
+C:\c-\Labs_classprop\obj\Debug\netcoreapp2.1\Labs_classprop.AssemblyInfo.cs
+C:\c-\Labs_classprop\obj\Debug\netcoreapp2.1\Labs_classprop.dll
+C:\c-\Labs_classprop\obj\Debug\netcoreapp2.1\Labs_classprop.pdb
+C:\c-\Labs_classprop\obj\Debug\netcoreapp2.1\Labs_classprop.csprojAssemblyReference.cache

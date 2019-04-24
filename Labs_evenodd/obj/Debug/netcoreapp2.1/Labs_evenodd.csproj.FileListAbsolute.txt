@@ -1,0 +1,4 @@
+C:\c-\Labs_evenodd\obj\Debug\netcoreapp2.1\Labs_evenodd.csproj.CoreCompileInputs.cache
+C:\c-\Labs_evenodd\obj\Debug\netcoreapp2.1\Labs_evenodd.AssemblyInfoInputs.cache
+C:\c-\Labs_evenodd\obj\Debug\netcoreapp2.1\Labs_evenodd.AssemblyInfo.cs
+C:\c-\Labs_evenodd\obj\Debug\netcoreapp2.1\Labs_evenodd.csprojAssemblyReference.cache

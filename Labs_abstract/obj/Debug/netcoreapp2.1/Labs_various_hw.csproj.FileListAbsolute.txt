@@ -1,0 +1,10 @@
+C:\c-\Labs_abstract\bin\Debug\netcoreapp2.1\Labs_various_hw.deps.json
+C:\c-\Labs_abstract\bin\Debug\netcoreapp2.1\Labs_various_hw.runtimeconfig.json
+C:\c-\Labs_abstract\bin\Debug\netcoreapp2.1\Labs_various_hw.runtimeconfig.dev.json
+C:\c-\Labs_abstract\bin\Debug\netcoreapp2.1\Labs_various_hw.dll
+C:\c-\Labs_abstract\bin\Debug\netcoreapp2.1\Labs_various_hw.pdb
+C:\c-\Labs_abstract\obj\Debug\netcoreapp2.1\Labs_various_hw.csproj.CoreCompileInputs.cache
+C:\c-\Labs_abstract\obj\Debug\netcoreapp2.1\Labs_various_hw.AssemblyInfoInputs.cache
+C:\c-\Labs_abstract\obj\Debug\netcoreapp2.1\Labs_various_hw.AssemblyInfo.cs
+C:\c-\Labs_abstract\obj\Debug\netcoreapp2.1\Labs_various_hw.dll
+C:\c-\Labs_abstract\obj\Debug\netcoreapp2.1\Labs_various_hw.pdb

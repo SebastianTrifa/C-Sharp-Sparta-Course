@@ -1,0 +1,11 @@
+C:\c-\Labs_list\obj\Debug\netcoreapp2.1\Labs_list.csprojAssemblyReference.cache
+C:\c-\Labs_list\obj\Debug\netcoreapp2.1\Labs_list.csproj.CoreCompileInputs.cache
+C:\c-\Labs_list\obj\Debug\netcoreapp2.1\Labs_list.AssemblyInfoInputs.cache
+C:\c-\Labs_list\obj\Debug\netcoreapp2.1\Labs_list.AssemblyInfo.cs
+C:\c-\Labs_list\bin\Debug\netcoreapp2.1\Labs_list.deps.json
+C:\c-\Labs_list\bin\Debug\netcoreapp2.1\Labs_list.runtimeconfig.json
+C:\c-\Labs_list\bin\Debug\netcoreapp2.1\Labs_list.runtimeconfig.dev.json
+C:\c-\Labs_list\bin\Debug\netcoreapp2.1\Labs_list.dll
+C:\c-\Labs_list\bin\Debug\netcoreapp2.1\Labs_list.pdb
+C:\c-\Labs_list\obj\Debug\netcoreapp2.1\Labs_list.dll
+C:\c-\Labs_list\obj\Debug\netcoreapp2.1\Labs_list.pdb

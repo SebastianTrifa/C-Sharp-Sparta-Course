@@ -1,0 +1,10 @@
+C:\c-\Labs_constructors\bin\Debug\netcoreapp2.1\Labs_constructors.deps.json
+C:\c-\Labs_constructors\bin\Debug\netcoreapp2.1\Labs_constructors.runtimeconfig.json
+C:\c-\Labs_constructors\bin\Debug\netcoreapp2.1\Labs_constructors.runtimeconfig.dev.json
+C:\c-\Labs_constructors\bin\Debug\netcoreapp2.1\Labs_constructors.dll
+C:\c-\Labs_constructors\bin\Debug\netcoreapp2.1\Labs_constructors.pdb
+C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.csproj.CoreCompileInputs.cache
+C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.AssemblyInfoInputs.cache
+C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.AssemblyInfo.cs
+C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.dll
+C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.pdb

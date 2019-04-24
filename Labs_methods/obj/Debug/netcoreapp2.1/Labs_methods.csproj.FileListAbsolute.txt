@@ -1,0 +1,11 @@
+C:\c-\Labs_methods\bin\Debug\netcoreapp2.1\Labs_methods.deps.json
+C:\c-\Labs_methods\bin\Debug\netcoreapp2.1\Labs_methods.runtimeconfig.json
+C:\c-\Labs_methods\bin\Debug\netcoreapp2.1\Labs_methods.runtimeconfig.dev.json
+C:\c-\Labs_methods\bin\Debug\netcoreapp2.1\Labs_methods.dll
+C:\c-\Labs_methods\bin\Debug\netcoreapp2.1\Labs_methods.pdb
+C:\c-\Labs_methods\obj\Debug\netcoreapp2.1\Labs_methods.csprojAssemblyReference.cache
+C:\c-\Labs_methods\obj\Debug\netcoreapp2.1\Labs_methods.csproj.CoreCompileInputs.cache
+C:\c-\Labs_methods\obj\Debug\netcoreapp2.1\Labs_methods.AssemblyInfoInputs.cache
+C:\c-\Labs_methods\obj\Debug\netcoreapp2.1\Labs_methods.AssemblyInfo.cs
+C:\c-\Labs_methods\obj\Debug\netcoreapp2.1\Labs_methods.dll
+C:\c-\Labs_methods\obj\Debug\netcoreapp2.1\Labs_methods.pdb
