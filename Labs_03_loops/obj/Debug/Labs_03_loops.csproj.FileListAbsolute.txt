@@ -5,3 +5,7 @@ C:\c-\Labs_03_loops\obj\Debug\Labs_03_loops.csprojAssemblyReference.cache
 C:\c-\Labs_03_loops\obj\Debug\Labs_03_loops.csproj.CoreCompileInputs.cache
 C:\c-\Labs_03_loops\obj\Debug\Labs_03_loops.exe
 C:\c-\Labs_03_loops\obj\Debug\Labs_03_loops.pdb
+C:\c-\Labs_03_loops\bin\Debug\nunit.framework.dll
+C:\c-\Labs_03_loops\bin\Debug\nunit.framework.pdb
+C:\c-\Labs_03_loops\bin\Debug\nunit.framework.xml
+C:\c-\Labs_03_loops\obj\Debug\Labs_03_loops.csproj.CopyComplete

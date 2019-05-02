@@ -13,3 +13,7 @@ C:\c-\Lab_14_WPF\obj\Debug\Lab_14_WPF.csproj.GenerateResource.cache
 C:\c-\Lab_14_WPF\obj\Debug\Lab_14_WPF.csproj.CoreCompileInputs.cache
 C:\c-\Lab_14_WPF\obj\Debug\Lab_14_WPF.exe
 C:\c-\Lab_14_WPF\obj\Debug\Lab_14_WPF.pdb
+C:\c-\Lab_14_WPF\bin\Debug\nunit.framework.dll
+C:\c-\Lab_14_WPF\bin\Debug\nunit.framework.pdb
+C:\c-\Lab_14_WPF\bin\Debug\nunit.framework.xml
+C:\c-\Lab_14_WPF\obj\Debug\Lab_14_WPF.csproj.CopyComplete

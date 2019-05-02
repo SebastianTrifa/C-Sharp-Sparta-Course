@@ -8,3 +8,4 @@ C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.AssemblyInfoInputs
 C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.AssemblyInfo.cs
 C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.dll
 C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.pdb
+C:\c-\List_methods_hw\obj\Debug\netcoreapp2.1\List_methods_hw.csprojAssemblyReference.cache

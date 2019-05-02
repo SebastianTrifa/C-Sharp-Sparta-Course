@@ -8,3 +8,6 @@ C:\c-\Labs05_usedll\obj\Debug\Labs_05_usedll.csproj.CoreCompileInputs.cache
 C:\c-\Labs05_usedll\obj\Debug\Labs_05_usedll.csproj.CopyComplete
 C:\c-\Labs05_usedll\obj\Debug\Labs05_usedll.exe
 C:\c-\Labs05_usedll\obj\Debug\Labs05_usedll.pdb
+C:\c-\Labs05_usedll\bin\Debug\nunit.framework.dll
+C:\c-\Labs05_usedll\bin\Debug\nunit.framework.pdb
+C:\c-\Labs05_usedll\bin\Debug\nunit.framework.xml

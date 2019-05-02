@@ -8,3 +8,4 @@ C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.AssemblyInfoIn
 C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.AssemblyInfo.cs
 C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.dll
 C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.pdb
+C:\c-\Labs_constructors\obj\Debug\netcoreapp2.1\Labs_constructors.csprojAssemblyReference.cache

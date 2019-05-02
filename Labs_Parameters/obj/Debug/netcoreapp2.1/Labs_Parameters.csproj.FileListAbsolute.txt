@@ -8,3 +8,4 @@ C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.AssemblyInfoInputs
 C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.AssemblyInfo.cs
 C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.dll
 C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.pdb
+C:\c-\Labs_Parameters\obj\Debug\netcoreapp2.1\Labs_Parameters.csprojAssemblyReference.cache

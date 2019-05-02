@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using labs_test_01;
+using Labs_hw_01;
 
 namespace lab_test_01_tests
 {

@@ -8,3 +8,4 @@ C:\c-\Labs_queue\obj\Debug\netcoreapp2.1\Labs_queue.AssemblyInfoInputs.cache
 C:\c-\Labs_queue\obj\Debug\netcoreapp2.1\Labs_queue.AssemblyInfo.cs
 C:\c-\Labs_queue\obj\Debug\netcoreapp2.1\Labs_queue.dll
 C:\c-\Labs_queue\obj\Debug\netcoreapp2.1\Labs_queue.pdb
+C:\c-\Labs_queue\obj\Debug\netcoreapp2.1\Labs_queue.csprojAssemblyReference.cache

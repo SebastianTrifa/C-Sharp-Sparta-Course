@@ -28,7 +28,11 @@ namespace Lab_14_WPF
 
         void Initialise()
         {
-            Button01.FontSize = 40;
+            Button01.FontSize = 30;
+            Button01.Content = "Collapsed";
+            Button01.Background = Brushes.Pink;
+            Button01.MouseRightButtonDown += Button01_right;
+            //Button01.Visibility = Visibility.Collapsed;
         }
 
         static int counter = 0;
@@ -36,8 +40,16 @@ namespace Lab_14_WPF
         private void Button01_Click(object sender, RoutedEventArgs e)
         {
             counter++;
-            Label01.Content = $"You clicked {counter} times";
+            Label01.FontSize = 30;
+            Label01.Padding = new System.Windows.Thickness(-100);
+            Label01.HorizontalContentAlignment = HorizontalAlignment.Center;
+            Label01.VerticalContentAlignment = VerticalAlignment.Center;
+            Image Img = new Image();
+            Img.Source = new BitmapImage(new Uri(
+                         "C:\\c-\\Lab_14_WPF\\download.jpg"));
+            Label01.Content = "5";// $"You clicked {counter} times";
             ListBox01.Items.Add($"You clicked {counter} times");
+            Label01.Content = Img;
         }
 
         private void Button02_Click(object sender, RoutedEventArgs e)
@@ -45,6 +57,25 @@ namespace Lab_14_WPF
             counter = 0;
             Label01.Content = $"You clicked {counter} times";
             ListBox01.Items.Clear();
+        }
+
+        private void Toolbar_Click(object sender, RoutedEventArgs e)
+        {
+            Button01.Content = "K";
+        }
+
+        private void Button01_right(object sender, MouseButtonEventArgs e)
+        {
+            if (e.RightButton == MouseButtonState.Pressed && Button01.Content.ToString() == "X")
+            {
+                Button01.Content = "";
+                return;
+            }
+            if (e.RightButton == MouseButtonState.Pressed)
+            {
+                Button01.Content = "X";
+                return;
+            }
         }
     }
 }

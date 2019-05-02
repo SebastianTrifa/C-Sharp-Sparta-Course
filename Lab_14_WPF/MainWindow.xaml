@@ -5,21 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lab_14_WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="Auto" Width="Auto">
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="*" />
-            <ColumnDefinition Width="*" />
-        </Grid.ColumnDefinitions>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
-        </Grid.RowDefinitions>
-        <Button x:Name="Button01" Grid.Row="0" Grid.Column="0" Background="Thistle" Click="Button01_Click" />
-        <Label x:Name="Label01" Grid.Row="0" Grid.Column="1" Background="#23f14a" />
-        <ListBox x:Name="ListBox01" Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" Background="#ab274d" />
-        <Button x:Name="Button02" Grid.Row="1" Grid.Column="0" Background="#4c5a34" Click="Button02_Click" />
-    </Grid>
+        Title="MainWindow" Height="Auto" Width="Auto"
+        SizeToContent="WidthAndHeight" >
+    <DockPanel>
+        <ToolBarTray DockPanel.Dock="Top" Background="DarkGray" Height="30" VerticalAlignment="Top">
+            <ToolBar Name="MyToolbar" Background="DarkGray" Width="640" Height="30" >
+                <Button Background="LightSkyBlue" Content="Open" Name="OpenButton" Click="Toolbar_Click" />
+                <Button Background="LightSkyBlue" Content="Close" Name="CloseButton" Click="Toolbar_Click" />
+                <Button Background="LightSkyBlue" Content="Exit" Name="ExitButton" Click="Toolbar_Click" />
+            </ToolBar>
+        </ToolBarTray>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40" />
+                <ColumnDefinition Width="40" />
+                <ColumnDefinition Width="40" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+            </Grid.RowDefinitions>
+            <Button x:Name="Button01" Grid.Row="0" Grid.Column="0" Background="Thistle" Click="Button01_Click" />
+            <Label x:Name="Label01" Grid.Row="0" Grid.Column="1" Background="#23f14a" />
+            <ListBox x:Name="ListBox01" Grid.Row="0" Grid.Column="2" Grid.RowSpan="3" Background="#ab274d" />
+            <Button x:Name="Button02" Grid.Row="1" Grid.Column="0" Background="#4c5a34" Click="Button02_Click" />
+        </Grid>
+    </DockPanel>
 </Window>

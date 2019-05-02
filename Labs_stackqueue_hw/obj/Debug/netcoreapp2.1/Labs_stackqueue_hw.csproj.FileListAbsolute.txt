@@ -1,0 +1,10 @@
+C:\c-\Labs_stackqueue_hw\bin\Debug\netcoreapp2.1\Labs_stackqueue_hw.deps.json
+C:\c-\Labs_stackqueue_hw\bin\Debug\netcoreapp2.1\Labs_stackqueue_hw.runtimeconfig.json
+C:\c-\Labs_stackqueue_hw\bin\Debug\netcoreapp2.1\Labs_stackqueue_hw.runtimeconfig.dev.json
+C:\c-\Labs_stackqueue_hw\bin\Debug\netcoreapp2.1\Labs_stackqueue_hw.dll
+C:\c-\Labs_stackqueue_hw\bin\Debug\netcoreapp2.1\Labs_stackqueue_hw.pdb
+C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.csproj.CoreCompileInputs.cache
+C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.AssemblyInfoInputs.cache
+C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.AssemblyInfo.cs
+C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.dll
+C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.pdb

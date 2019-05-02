@@ -1,0 +1,11 @@
+C:\c-\Labs_fileop\bin\Debug\Labs_fileop.exe.config
+C:\c-\Labs_fileop\bin\Debug\Labs_fileop.exe
+C:\c-\Labs_fileop\bin\Debug\Labs_fileop.pdb
+C:\c-\Labs_fileop\obj\Debug\Labs_fileop.csprojAssemblyReference.cache
+C:\c-\Labs_fileop\obj\Debug\Labs_fileop.csproj.CoreCompileInputs.cache
+C:\c-\Labs_fileop\obj\Debug\Labs_fileop.exe
+C:\c-\Labs_fileop\obj\Debug\Labs_fileop.pdb
+C:\c-\Labs_fileop\bin\Debug\nunit.framework.dll
+C:\c-\Labs_fileop\bin\Debug\nunit.framework.pdb
+C:\c-\Labs_fileop\bin\Debug\nunit.framework.xml
+C:\c-\Labs_fileop\obj\Debug\Labs_fileop.csproj.CopyComplete

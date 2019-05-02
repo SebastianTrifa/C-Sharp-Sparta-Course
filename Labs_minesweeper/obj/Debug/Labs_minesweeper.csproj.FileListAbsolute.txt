@@ -1,0 +1,15 @@
+C:\c-\Labs_minesweeper\bin\Debug\Labs_minesweeper.exe.config
+C:\c-\Labs_minesweeper\bin\Debug\Labs_minesweeper.exe
+C:\c-\Labs_minesweeper\bin\Debug\Labs_minesweeper.pdb
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper.csprojAssemblyReference.cache
+C:\c-\Labs_minesweeper\obj\Debug\MainWindow.g.cs
+C:\c-\Labs_minesweeper\obj\Debug\App.g.cs
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper_MarkupCompile.cache
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper_MarkupCompile.lref
+C:\c-\Labs_minesweeper\obj\Debug\MainWindow.baml
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper.g.resources
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper.Properties.Resources.resources
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper.csproj.GenerateResource.cache
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper.csproj.CoreCompileInputs.cache
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper.exe
+C:\c-\Labs_minesweeper\obj\Debug\Labs_minesweeper.pdb

@@ -4,3 +4,7 @@ C:\c-\Labs_08\bin\Debug\Labs_08.pdb
 C:\c-\Labs_08\obj\Debug\Labs_08.csproj.CoreCompileInputs.cache
 C:\c-\Labs_08\obj\Debug\Labs_08.exe
 C:\c-\Labs_08\obj\Debug\Labs_08.pdb
+C:\c-\Labs_08\bin\Debug\nunit.framework.dll
+C:\c-\Labs_08\bin\Debug\nunit.framework.pdb
+C:\c-\Labs_08\bin\Debug\nunit.framework.xml
+C:\c-\Labs_08\obj\Debug\Labs_08.csproj.CopyComplete

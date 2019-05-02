@@ -1,0 +1,10 @@
+C:\c-\Labs_events\bin\Debug\netcoreapp2.1\Labs_events.deps.json
+C:\c-\Labs_events\bin\Debug\netcoreapp2.1\Labs_events.runtimeconfig.json
+C:\c-\Labs_events\bin\Debug\netcoreapp2.1\Labs_events.runtimeconfig.dev.json
+C:\c-\Labs_events\bin\Debug\netcoreapp2.1\Labs_events.dll
+C:\c-\Labs_events\bin\Debug\netcoreapp2.1\Labs_events.pdb
+C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.csproj.CoreCompileInputs.cache
+C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.AssemblyInfoInputs.cache
+C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.AssemblyInfo.cs
+C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.dll
+C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.pdb

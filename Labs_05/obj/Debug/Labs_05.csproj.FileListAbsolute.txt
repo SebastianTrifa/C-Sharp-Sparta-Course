@@ -18,3 +18,7 @@ C:\c-\Labs_05\obj\Debug\Labs_05.csproj.GenerateResource.cache
 C:\c-\Labs_05\obj\Debug\Labs_05.csproj.CoreCompileInputs.cache
 C:\c-\Labs_05\obj\Debug\Labs_05.exe
 C:\c-\Labs_05\obj\Debug\Labs_05.pdb
+C:\c-\Labs_05\bin\Debug\nunit.framework.dll
+C:\c-\Labs_05\bin\Debug\nunit.framework.pdb
+C:\c-\Labs_05\bin\Debug\nunit.framework.xml
+C:\c-\Labs_05\obj\Debug\Labs_05.csproj.CopyComplete

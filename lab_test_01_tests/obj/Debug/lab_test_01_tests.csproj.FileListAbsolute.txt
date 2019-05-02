@@ -15,3 +15,9 @@ C:\c-\lab_test_01_tests\obj\Debug\lab_test_01_tests.csproj.CoreCompileInputs.cac
 C:\c-\lab_test_01_tests\obj\Debug\lab_test_01_tests.csproj.CopyComplete
 C:\c-\lab_test_01_tests\obj\Debug\lab_test_01_tests.dll
 C:\c-\lab_test_01_tests\obj\Debug\lab_test_01_tests.pdb
+C:\c-\lab_test_01_tests\bin\Debug\Labs_hw_01.exe
+C:\c-\lab_test_01_tests\bin\Debug\nunit.framework.dll
+C:\c-\lab_test_01_tests\bin\Debug\Labs_hw_01.pdb
+C:\c-\lab_test_01_tests\bin\Debug\Labs_hw_01.exe.config
+C:\c-\lab_test_01_tests\bin\Debug\nunit.framework.pdb
+C:\c-\lab_test_01_tests\bin\Debug\nunit.framework.xml

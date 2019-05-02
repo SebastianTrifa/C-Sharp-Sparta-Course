@@ -1,0 +1,15 @@
+C:\c-\Labs_Entity\bin\Debug\Labs_Entity.exe.config
+C:\c-\Labs_Entity\bin\Debug\Labs_Entity.exe
+C:\c-\Labs_Entity\bin\Debug\Labs_Entity.pdb
+C:\c-\Labs_Entity\bin\Debug\EntityFramework.dll
+C:\c-\Labs_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\c-\Labs_Entity\bin\Debug\EntityFramework.xml
+C:\c-\Labs_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\c-\Labs_Entity\obj\Debug\Labs_Entity.csprojAssemblyReference.cache
+C:\c-\Labs_Entity\obj\Debug\Labs_Entity.csproj.CoreCompileInputs.cache
+C:\c-\Labs_Entity\obj\Debug\Labs_Entity.csproj.CopyComplete
+C:\c-\Labs_Entity\obj\Debug\Labs_Entity.exe
+C:\c-\Labs_Entity\obj\Debug\Labs_Entity.pdb
+C:\c-\Labs_Entity\bin\Debug\nunit.framework.dll
+C:\c-\Labs_Entity\bin\Debug\nunit.framework.pdb
+C:\c-\Labs_Entity\bin\Debug\nunit.framework.xml
