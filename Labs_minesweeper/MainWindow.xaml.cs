@@ -20,6 +20,7 @@ namespace Labs_minesweeper
     /// </summary>
     public partial class MainWindow : Window
     {
+        bool click = false;
         static int[,] minen = new int[100, 2];
         static int n = 9, m = 10;
         static Button[,] but = new Button[25, 25];
@@ -30,22 +31,20 @@ namespace Labs_minesweeper
             InitializeComponent();
             Window_Loaded();
             Initialise();
-            Toolbar();
-            Random();
-            Initialise_Label();
-            Modify_Label();
+            /*if (click)
+            {
+                Random();
+                Initialise_Label();
+                Modify_Label();
+            }*/
         }
 
-        static public void Toolbar()
-        {
-        }
-
-        static public void Random()
+        static public void Random(int x, int y)
         {
             bool exists = false;
             Random rand = new Random();
             for (int i = 0; i < m; i++)
-            {
+            { 
                 do
                 {
                     exists = false;
@@ -53,7 +52,7 @@ namespace Labs_minesweeper
                     minen[i, 1] = rand.Next(n);
                     for (int j = 0; j < i; j++)
                     {
-                        if (minen[j, 0] == minen[i, 0] && minen[j, 1] == minen[i, 1])
+                        if (minen[j, 0] == minen[i, 0] && minen[j, 1] == minen[i, 1]||(minen[i,0]==x && minen[i,1]==y))
                             exists = true;
                     }
                 }while (exists);
@@ -183,6 +182,12 @@ namespace Labs_minesweeper
         void Button_Click(object sender, System.EventArgs e)
         {
             Button button = (Button)sender;
+            if (!click)
+            {
+                Random(Grid.GetRow(button),Grid.GetColumn(button));
+                Initialise_Label();
+                Modify_Label();
+            }
             button.Visibility = Visibility.Collapsed;
             lab[Grid.GetRow(button), Grid.GetColumn(button)].Visibility = Visibility.Visible;
             if (lab[Grid.GetRow(button), Grid.GetColumn(button)].Content.ToString() == "mine")
@@ -199,6 +204,7 @@ namespace Labs_minesweeper
             else if (lab[Grid.GetRow(button), Grid.GetColumn(button)].Content.ToString() == "  ")
                 Cascade(Grid.GetRow(button), Grid.GetColumn(button));
             Check_Win();
+            click = true;
         }
 
         void Check_Win()
@@ -347,41 +353,44 @@ namespace Labs_minesweeper
         {
             m = 10;
             n = 9;
+            click = false;
             MyToolbar.Width = n * 40;
             //Button[,] but = new Button[n, n];
             //Label[,] lab = new Label[n, n];
             InitializeComponent();
             Window_Loaded();
             Initialise();
-            Random();
+            /*Random();
             Initialise_Label();
-            Modify_Label();
+            Modify_Label();*/
         }
 
         public void Toolbar_Click02(object sender, RoutedEventArgs e)
         {
             m = 25;
             n = 12;
+            click = false;
             MyToolbar.Width = n * 40;
             InitializeComponent();
             Window_Loaded();
             Initialise();
-            Random();
+            /*Random();
             Initialise_Label();
-            Modify_Label();
+            Modify_Label();*/
         }
 
         public void Toolbar_Click03(object sender, RoutedEventArgs e)
         {
             m = 52;
             n = 18;
+            click = false;
             MyToolbar.Width = n * 40;
             InitializeComponent();
             Window_Loaded();
             Initialise();
-            Random();
+            /*Random();
             Initialise_Label();
-            Modify_Label();
+            Modify_Label();*/
         }
     }
 }

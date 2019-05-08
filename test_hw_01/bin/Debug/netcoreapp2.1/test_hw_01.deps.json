@@ -9,6 +9,9 @@
       "test_hw_01/1.0.0": {
         "dependencies": {
           "Labs_hw_01": "1.0.0",
+          "Labs_hw_Classes": "1.0.0",
+          "Labs_hw_Polymorphism": "1.0.0",
+          "Labs_hw_Stopwatch": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.8.0",
           "NUnit3TestAdapter": "3.10.0",
           "NUnit": "3.10.1"
@@ -1036,6 +1039,21 @@
         "runtime": {
           "Labs_hw_01.exe": {}
         }
+      },
+      "Labs_hw_Classes/1.0.0": {
+        "runtime": {
+          "Labs_hw_Classes.dll": {}
+        }
+      },
+      "Labs_hw_Polymorphism/1.0.0": {
+        "runtime": {
+          "Labs_hw_Polymorphism.dll": {}
+        }
+      },
+      "Labs_hw_Stopwatch/1.0.0": {
+        "runtime": {
+          "Labs_hw_Stopwatch.dll": {}
+        }
       }
     }
   },
@@ -1543,6 +1561,21 @@
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "Labs_hw_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labs_hw_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labs_hw_Polymorphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labs_hw_Stopwatch/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

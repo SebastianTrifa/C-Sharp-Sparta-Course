@@ -17,3 +17,9 @@ C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_01.exe.config
 C:\c-\test_hw_01\obj\Debug\netcoreapp2.1\test_hw_01.csproj.CopyComplete
 C:\c-\test_hw_01\obj\Debug\netcoreapp2.1\test_hw_01.dll
 C:\c-\test_hw_01\obj\Debug\netcoreapp2.1\test_hw_01.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Classes.dll
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Polymorphism.dll
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.dll
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Classes.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Polymorphism.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.pdb

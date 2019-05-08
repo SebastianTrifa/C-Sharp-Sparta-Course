@@ -1,0 +1,11 @@
+C:\c-\Labs_hw_Stopwatch\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.deps.json
+C:\c-\Labs_hw_Stopwatch\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.runtimeconfig.json
+C:\c-\Labs_hw_Stopwatch\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.runtimeconfig.dev.json
+C:\c-\Labs_hw_Stopwatch\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.dll
+C:\c-\Labs_hw_Stopwatch\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.pdb
+C:\c-\Labs_hw_Stopwatch\obj\Debug\netcoreapp2.1\Labs_hw_Stopwatch.csprojAssemblyReference.cache
+C:\c-\Labs_hw_Stopwatch\obj\Debug\netcoreapp2.1\Labs_hw_Stopwatch.csproj.CoreCompileInputs.cache
+C:\c-\Labs_hw_Stopwatch\obj\Debug\netcoreapp2.1\Labs_hw_Stopwatch.AssemblyInfoInputs.cache
+C:\c-\Labs_hw_Stopwatch\obj\Debug\netcoreapp2.1\Labs_hw_Stopwatch.AssemblyInfo.cs
+C:\c-\Labs_hw_Stopwatch\obj\Debug\netcoreapp2.1\Labs_hw_Stopwatch.dll
+C:\c-\Labs_hw_Stopwatch\obj\Debug\netcoreapp2.1\Labs_hw_Stopwatch.pdb

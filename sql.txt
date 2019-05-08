@@ -1,0 +1,8 @@
+select sum(Freight) from orders;
+select avg(Freight) from orders;
+select min(Freight) from orders;
+select max(Freight) from orders;
+select EmployeeID, Freight from orders group by EmployeeID, Freight;
+select EmployeeID, Freight from orders group by EmployeeID, Freight having avg(Freight)>50;
+select count(distinct EmployeeID) from orders;
+select * from orders inner join Employees on orders.EmployeeID=Employees.EmployeeID;

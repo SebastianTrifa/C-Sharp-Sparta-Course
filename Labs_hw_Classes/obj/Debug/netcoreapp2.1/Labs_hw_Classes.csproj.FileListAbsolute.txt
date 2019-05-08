@@ -1,0 +1,11 @@
+C:\c-\Labs_hw_Classes\bin\Debug\netcoreapp2.1\Labs_hw_Classes.deps.json
+C:\c-\Labs_hw_Classes\bin\Debug\netcoreapp2.1\Labs_hw_Classes.runtimeconfig.json
+C:\c-\Labs_hw_Classes\bin\Debug\netcoreapp2.1\Labs_hw_Classes.runtimeconfig.dev.json
+C:\c-\Labs_hw_Classes\bin\Debug\netcoreapp2.1\Labs_hw_Classes.dll
+C:\c-\Labs_hw_Classes\bin\Debug\netcoreapp2.1\Labs_hw_Classes.pdb
+C:\c-\Labs_hw_Classes\obj\Debug\netcoreapp2.1\Labs_hw_Classes.csprojAssemblyReference.cache
+C:\c-\Labs_hw_Classes\obj\Debug\netcoreapp2.1\Labs_hw_Classes.csproj.CoreCompileInputs.cache
+C:\c-\Labs_hw_Classes\obj\Debug\netcoreapp2.1\Labs_hw_Classes.AssemblyInfoInputs.cache
+C:\c-\Labs_hw_Classes\obj\Debug\netcoreapp2.1\Labs_hw_Classes.AssemblyInfo.cs
+C:\c-\Labs_hw_Classes\obj\Debug\netcoreapp2.1\Labs_hw_Classes.dll
+C:\c-\Labs_hw_Classes\obj\Debug\netcoreapp2.1\Labs_hw_Classes.pdb

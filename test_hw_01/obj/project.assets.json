@@ -1654,6 +1654,45 @@
         "runtime": {
           "bin/placeholder/Labs_hw_01.dll": {}
         }
+      },
+      "Labs_hw_Classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Labs_hw_Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Labs_hw_Classes.dll": {}
+        }
+      },
+      "Labs_hw_Polymorphism/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Labs_hw_Polymorphism.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Labs_hw_Polymorphism.dll": {}
+        }
+      },
+      "Labs_hw_Stopwatch/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Labs_hw_Stopwatch.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Labs_hw_Stopwatch.dll": {}
+        }
       }
     }
   },
@@ -5789,11 +5828,29 @@
       "type": "project",
       "path": "../Labs_hw_01/Labs_hw_01.csproj",
       "msbuildProject": "../Labs_hw_01/Labs_hw_01.csproj"
+    },
+    "Labs_hw_Classes/1.0.0": {
+      "type": "project",
+      "path": "../Labs_hw_Classes/Labs_hw_Classes.csproj",
+      "msbuildProject": "../Labs_hw_Classes/Labs_hw_Classes.csproj"
+    },
+    "Labs_hw_Polymorphism/1.0.0": {
+      "type": "project",
+      "path": "../Labs_hw_Polymorphism/Labs_hw_Polymorphism.csproj",
+      "msbuildProject": "../Labs_hw_Polymorphism/Labs_hw_Polymorphism.csproj"
+    },
+    "Labs_hw_Stopwatch/1.0.0": {
+      "type": "project",
+      "path": "../Labs_hw_Stopwatch/Labs_hw_Stopwatch.csproj",
+      "msbuildProject": "../Labs_hw_Stopwatch/Labs_hw_Stopwatch.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Labs_hw_01 >= 1.0.0",
+      "Labs_hw_Classes >= 1.0.0",
+      "Labs_hw_Polymorphism >= 1.0.0",
+      "Labs_hw_Stopwatch >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
@@ -5832,6 +5889,15 @@
           "projectReferences": {
             "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj": {
               "projectPath": "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj"
+            },
+            "C:\\c-\\Labs_hw_Classes\\Labs_hw_Classes.csproj": {
+              "projectPath": "C:\\c-\\Labs_hw_Classes\\Labs_hw_Classes.csproj"
+            },
+            "C:\\c-\\Labs_hw_Polymorphism\\Labs_hw_Polymorphism.csproj": {
+              "projectPath": "C:\\c-\\Labs_hw_Polymorphism\\Labs_hw_Polymorphism.csproj"
+            },
+            "C:\\c-\\Labs_hw_Stopwatch\\Labs_hw_Stopwatch.csproj": {
+              "projectPath": "C:\\c-\\Labs_hw_Stopwatch\\Labs_hw_Stopwatch.csproj"
             }
           }
         }
