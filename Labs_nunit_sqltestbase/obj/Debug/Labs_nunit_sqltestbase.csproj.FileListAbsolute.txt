@@ -1,0 +1,7 @@
+C:\c-\Labs_nunit_sqltestbase\bin\Debug\Labs_nunit_sqltestbase.exe.config
+C:\c-\Labs_nunit_sqltestbase\bin\Debug\Labs_nunit_sqltestbase.exe
+C:\c-\Labs_nunit_sqltestbase\bin\Debug\Labs_nunit_sqltestbase.pdb
+C:\c-\Labs_nunit_sqltestbase\obj\Debug\Labs_nunit_sqltestbase.csprojAssemblyReference.cache
+C:\c-\Labs_nunit_sqltestbase\obj\Debug\Labs_nunit_sqltestbase.csproj.CoreCompileInputs.cache
+C:\c-\Labs_nunit_sqltestbase\obj\Debug\Labs_nunit_sqltestbase.exe
+C:\c-\Labs_nunit_sqltestbase\obj\Debug\Labs_nunit_sqltestbase.pdb

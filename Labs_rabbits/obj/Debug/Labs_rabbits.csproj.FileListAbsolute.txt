@@ -1,0 +1,7 @@
+C:\c-\Labs_rabbits\bin\Debug\Labs_rabbits.exe.config
+C:\c-\Labs_rabbits\bin\Debug\Labs_rabbits.exe
+C:\c-\Labs_rabbits\bin\Debug\Labs_rabbits.pdb
+C:\c-\Labs_rabbits\obj\Debug\Labs_rabbits.csprojAssemblyReference.cache
+C:\c-\Labs_rabbits\obj\Debug\Labs_rabbits.csproj.CoreCompileInputs.cache
+C:\c-\Labs_rabbits\obj\Debug\Labs_rabbits.exe
+C:\c-\Labs_rabbits\obj\Debug\Labs_rabbits.pdb

@@ -1,0 +1,7 @@
+C:\c-\Lab_raw_sql\bin\Debug\Lab_raw_sql.exe.config
+C:\c-\Lab_raw_sql\bin\Debug\Lab_raw_sql.exe
+C:\c-\Lab_raw_sql\bin\Debug\Lab_raw_sql.pdb
+C:\c-\Lab_raw_sql\obj\Debug\Lab_raw_sql.csprojAssemblyReference.cache
+C:\c-\Lab_raw_sql\obj\Debug\Lab_raw_sql.csproj.CoreCompileInputs.cache
+C:\c-\Lab_raw_sql\obj\Debug\Lab_raw_sql.exe
+C:\c-\Lab_raw_sql\obj\Debug\Lab_raw_sql.pdb

@@ -1693,6 +1693,24 @@
         "runtime": {
           "bin/placeholder/Labs_hw_Stopwatch.dll": {}
         }
+      },
+      "Labs_nunit_sqltestbase/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Labs_nunit_sqltestbase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Labs_nunit_sqltestbase.dll": {}
+        }
+      },
+      "Labs_rabbits/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Labs_rabbits.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Labs_rabbits.dll": {}
+        }
       }
     }
   },
@@ -5843,6 +5861,16 @@
       "type": "project",
       "path": "../Labs_hw_Stopwatch/Labs_hw_Stopwatch.csproj",
       "msbuildProject": "../Labs_hw_Stopwatch/Labs_hw_Stopwatch.csproj"
+    },
+    "Labs_nunit_sqltestbase/1.0.0": {
+      "type": "project",
+      "path": "../Labs_nunit_sqltestbase/Labs_nunit_sqltestbase.csproj",
+      "msbuildProject": "../Labs_nunit_sqltestbase/Labs_nunit_sqltestbase.csproj"
+    },
+    "Labs_rabbits/1.0.0": {
+      "type": "project",
+      "path": "../Labs_rabbits/Labs_rabbits.csproj",
+      "msbuildProject": "../Labs_rabbits/Labs_rabbits.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5851,6 +5879,8 @@
       "Labs_hw_Classes >= 1.0.0",
       "Labs_hw_Polymorphism >= 1.0.0",
       "Labs_hw_Stopwatch >= 1.0.0",
+      "Labs_nunit_sqltestbase >= 1.0.0",
+      "Labs_rabbits >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
@@ -5898,6 +5928,12 @@
             },
             "C:\\c-\\Labs_hw_Stopwatch\\Labs_hw_Stopwatch.csproj": {
               "projectPath": "C:\\c-\\Labs_hw_Stopwatch\\Labs_hw_Stopwatch.csproj"
+            },
+            "C:\\c-\\Labs_nunit_sqltestbase\\Labs_nunit_sqltestbase.csproj": {
+              "projectPath": "C:\\c-\\Labs_nunit_sqltestbase\\Labs_nunit_sqltestbase.csproj"
+            },
+            "C:\\c-\\Labs_rabbits\\Labs_rabbits.csproj": {
+              "projectPath": "C:\\c-\\Labs_rabbits\\Labs_rabbits.csproj"
             }
           }
         }

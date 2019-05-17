@@ -1,0 +1,6 @@
+C:\c-\sometests\bin\Debug\sometests.dll
+C:\c-\sometests\bin\Debug\sometests.pdb
+C:\c-\sometests\obj\Debug\sometests.csprojAssemblyReference.cache
+C:\c-\sometests\obj\Debug\sometests.csproj.CoreCompileInputs.cache
+C:\c-\sometests\obj\Debug\sometests.dll
+C:\c-\sometests\obj\Debug\sometests.pdb

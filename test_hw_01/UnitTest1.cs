@@ -1,8 +1,12 @@
 using NUnit.Framework;
+using System;
 using Labs_hw_01;
 using Labs_hw_Polymorphism;
 using Labs_hw_Stopwatch;
 using Labs_hw_Classes;
+using Labs_nunit_sqltestbase;
+using Labs_rabbits;
+using System.IO;
 
 namespace Tests
 {
@@ -47,7 +51,7 @@ namespace Tests
                 Assert.AreEqual(expected, parent.OutputText());
         }
 
-        [TestCase(10, 5)]
+        //[TestCase(10, 5)]
         //[TestCase(10, 10)]
         //[TestCase(10, 20)]
         public void Lab_hw_Stopwatch(int expected, int limit)
@@ -63,6 +67,24 @@ namespace Tests
             }
             var actual = power;
             Assert.AreEqual(expected, actual);
+        }
+        [TestCase(10000)]
+        public void Labs_rabbits(int population)
+        {
+            Assert.AreEqual(14, Rabbit.Growth(population));
+        }
+        [TestCase("C:\\\\c-\\sql.sql", "SELECT CustomerId, CompanyName, Address, City, Region, PostalCode, Country " +
+                    "FROM Customers WHERE City IN('London', 'Paris');")]
+        public void Labs_sqltesting(string path, string elem)
+        {
+            string Path = File.ReadAllText(path);
+            var actual = Customer.Query(Path);
+            var expected = Customer.Query(elem);
+            Assert.AreEqual(actual.Count, expected.Count);
+            for (int i= 0; i<=actual.Count-1;i++)
+            {
+                Assert.AreEqual(actual[i], expected[i]);
+            }
         }
     }
 }

@@ -23,3 +23,9 @@ C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.dll
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Classes.pdb
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Polymorphism.pdb
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_hw_Stopwatch.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_nunit_sqltestbase.exe
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_nunit_sqltestbase.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_nunit_sqltestbase.exe.config
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_rabbits.exe
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_rabbits.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_rabbits.exe.config

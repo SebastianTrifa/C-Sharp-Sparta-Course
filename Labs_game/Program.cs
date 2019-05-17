@@ -112,7 +112,7 @@ namespace Labs_game
             do
             {
                 key = Console.ReadKey(true);
-                while(!alpha.Contains(key.KeyChar) && key.Key != ConsoleKey.Enter)
+                while(!alpha.Contains(key.KeyChar) && key.Key != ConsoleKey.Enter && key.Key != ConsoleKey.Backspace)
                 {
                     key = Console.ReadKey(true);
                 }

@@ -27,13 +27,13 @@ namespace Labs_hw_Stopwatch
             TimeSpan ts = new TimeSpan();
             stopWatch.Start();
             double num = Math.Pow(10, power);
-                for (double i = 0; i <= num; i++)
-                {
+            for (double i = 0; i <= num; i++)
+            {
 
-                }
-                stopWatch.Stop();
-                ts = stopWatch.Elapsed;
-                time = ts.Seconds * 1000 + ts.Milliseconds;
+            }
+            stopWatch.Stop();
+            ts = stopWatch.Elapsed;
+            time = ts.Seconds * 1000 + ts.Milliseconds;
             stopWatch.Stop();
             return time;
         }

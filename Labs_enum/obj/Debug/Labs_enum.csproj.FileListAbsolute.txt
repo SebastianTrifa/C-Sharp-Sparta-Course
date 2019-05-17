@@ -1,0 +1,7 @@
+C:\c-\Labs_enum\bin\Debug\Labs_enum.exe.config
+C:\c-\Labs_enum\bin\Debug\Labs_enum.exe
+C:\c-\Labs_enum\bin\Debug\Labs_enum.pdb
+C:\c-\Labs_enum\obj\Debug\Labs_enum.csprojAssemblyReference.cache
+C:\c-\Labs_enum\obj\Debug\Labs_enum.csproj.CoreCompileInputs.cache
+C:\c-\Labs_enum\obj\Debug\Labs_enum.exe
+C:\c-\Labs_enum\obj\Debug\Labs_enum.pdb

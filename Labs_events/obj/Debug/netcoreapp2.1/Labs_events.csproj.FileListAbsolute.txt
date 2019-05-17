@@ -8,3 +8,4 @@ C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.AssemblyInfoInputs.cache
 C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.AssemblyInfo.cs
 C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.dll
 C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.pdb
+C:\c-\Labs_events\obj\Debug\netcoreapp2.1\Labs_events.csprojAssemblyReference.cache

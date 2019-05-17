@@ -8,3 +8,4 @@ C:\c-\Labs_hw_Polymorphism\obj\Debug\netcoreapp2.1\Labs_hw_Polymorphism.Assembly
 C:\c-\Labs_hw_Polymorphism\obj\Debug\netcoreapp2.1\Labs_hw_Polymorphism.AssemblyInfo.cs
 C:\c-\Labs_hw_Polymorphism\obj\Debug\netcoreapp2.1\Labs_hw_Polymorphism.dll
 C:\c-\Labs_hw_Polymorphism\obj\Debug\netcoreapp2.1\Labs_hw_Polymorphism.pdb
+C:\c-\Labs_hw_Polymorphism\obj\Debug\netcoreapp2.1\Labs_hw_Polymorphism.csprojAssemblyReference.cache

@@ -12,6 +12,8 @@
           "Labs_hw_Classes": "1.0.0",
           "Labs_hw_Polymorphism": "1.0.0",
           "Labs_hw_Stopwatch": "1.0.0",
+          "Labs_nunit_sqltestbase": "1.0.0",
+          "Labs_rabbits": "1.0.0",
           "Microsoft.NET.Test.Sdk": "15.8.0",
           "NUnit3TestAdapter": "3.10.0",
           "NUnit": "3.10.1"
@@ -1054,6 +1056,16 @@
         "runtime": {
           "Labs_hw_Stopwatch.dll": {}
         }
+      },
+      "Labs_nunit_sqltestbase/1.0.0": {
+        "runtime": {
+          "Labs_nunit_sqltestbase.exe": {}
+        }
+      },
+      "Labs_rabbits/1.0.0": {
+        "runtime": {
+          "Labs_rabbits.exe": {}
+        }
       }
     }
   },
@@ -1576,6 +1588,16 @@
       "sha512": ""
     },
     "Labs_hw_Stopwatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labs_nunit_sqltestbase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labs_rabbits/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

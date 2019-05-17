@@ -8,3 +8,4 @@ C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.AssemblyInfo
 C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.AssemblyInfo.cs
 C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.dll
 C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.pdb
+C:\c-\Labs_stackqueue_hw\obj\Debug\netcoreapp2.1\Labs_stackqueue_hw.csprojAssemblyReference.cache

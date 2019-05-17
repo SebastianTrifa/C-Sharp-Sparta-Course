@@ -17,6 +17,8 @@
     <ProjectReference Include="..\Labs_hw_Classes\Labs_hw_Classes.csproj" />
     <ProjectReference Include="..\Labs_hw_Polymorphism\Labs_hw_Polymorphism.csproj" />
     <ProjectReference Include="..\Labs_hw_Stopwatch\Labs_hw_Stopwatch.csproj" />
+    <ProjectReference Include="..\Labs_nunit_sqltestbase\Labs_nunit_sqltestbase.csproj" />
+    <ProjectReference Include="..\Labs_rabbits\Labs_rabbits.csproj" />
   </ItemGroup>
 
 </Project>

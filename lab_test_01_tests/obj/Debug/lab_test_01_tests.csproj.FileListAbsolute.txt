@@ -21,3 +21,5 @@ C:\c-\lab_test_01_tests\bin\Debug\Labs_hw_01.pdb
 C:\c-\lab_test_01_tests\bin\Debug\Labs_hw_01.exe.config
 C:\c-\lab_test_01_tests\bin\Debug\nunit.framework.pdb
 C:\c-\lab_test_01_tests\bin\Debug\nunit.framework.xml
+C:\c-\lab_test_01_tests\bin\Debug\sometests.dll
+C:\c-\lab_test_01_tests\bin\Debug\sometests.pdb

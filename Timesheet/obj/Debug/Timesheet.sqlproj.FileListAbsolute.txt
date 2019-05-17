@@ -1,0 +1,6 @@
+C:\c-\Timesheet\bin\Debug\Timesheet.dacpac
+C:\c-\Timesheet\bin\Debug\Timesheet.dll
+C:\c-\Timesheet\bin\Debug\Timesheet.pdb
+C:\c-\Timesheet\obj\Debug\Timesheet.sqlprojAssemblyReference.cache
+C:\c-\Timesheet\obj\Debug\Timesheet.dll
+C:\c-\Timesheet\obj\Debug\Timesheet.pdb

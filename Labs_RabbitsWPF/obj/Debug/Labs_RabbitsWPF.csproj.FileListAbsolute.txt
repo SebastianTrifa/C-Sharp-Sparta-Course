@@ -1,0 +1,15 @@
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF.csprojAssemblyReference.cache
+C:\c-\Labs_RabbitsWPF\obj\Debug\MainWindow.g.cs
+C:\c-\Labs_RabbitsWPF\obj\Debug\App.g.cs
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF_MarkupCompile.cache
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF_MarkupCompile.lref
+C:\c-\Labs_RabbitsWPF\bin\Debug\Labs_RabbitsWPF.exe.config
+C:\c-\Labs_RabbitsWPF\bin\Debug\Labs_RabbitsWPF.exe
+C:\c-\Labs_RabbitsWPF\bin\Debug\Labs_RabbitsWPF.pdb
+C:\c-\Labs_RabbitsWPF\obj\Debug\MainWindow.baml
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF.g.resources
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF.Properties.Resources.resources
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF.csproj.GenerateResource.cache
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF.csproj.CoreCompileInputs.cache
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF.exe
+C:\c-\Labs_RabbitsWPF\obj\Debug\Labs_RabbitsWPF.pdb
