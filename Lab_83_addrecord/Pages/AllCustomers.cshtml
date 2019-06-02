@@ -1,0 +1,43 @@
+﻿@page
+@model Lab_83_addrecord.Pages.AllCustomersModel
+@{
+    ViewData["Title"] = "AllCustomers";
+}
+
+<h2>AllCustomers</h2>
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>Company Name</th>
+        <th>Contact Name</th>
+    </tr>
+    @foreach (var c in Model.customers)
+    {
+        <tr>
+            <td>@c.CompanyName</td>
+            <td>@c.ContactName</td>
+        </tr>
+    }
+</table>
+
+    <ul class="pagination">
+        <li><a href="https://localhost:44318/AllCustomers?page=1" class="asp">First</a></li>
+        <li><a href="https://localhost:44318/AllCustomers?page=@(Model.current - 1)" class="asp">Previous</a></li>
+        <li><a><input name="pagine" id="page" onchange="Input()" value="@(Model.current)"/>/@(Model.last)</a>
+        </li>
+        <li><a href="https://localhost:44318/AllCustomers?page=@(Model.current + 1)" class="asp">Next</a></li>
+        <li><a href="https://localhost:44318/AllCustomers?page=@(Model.last)" class="asp">Last</a></li>
+    </ul>
+
+<style>
+    input#page{
+        height: 20px;
+        width: 30px;
+    }
+</style>
+
+<style>
+    a.asp{
+        width: auto;
+        height: auto;
+    }
+</style>

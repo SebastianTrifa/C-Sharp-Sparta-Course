@@ -1,0 +1,7 @@
+C:\c-\Labs_task_wait\bin\Debug\Labs_task_wait.exe.config
+C:\c-\Labs_task_wait\bin\Debug\Labs_task_wait.exe
+C:\c-\Labs_task_wait\bin\Debug\Labs_task_wait.pdb
+C:\c-\Labs_task_wait\obj\Debug\Labs_task_wait.csprojAssemblyReference.cache
+C:\c-\Labs_task_wait\obj\Debug\Labs_task_wait.csproj.CoreCompileInputs.cache
+C:\c-\Labs_task_wait\obj\Debug\Labs_task_wait.exe
+C:\c-\Labs_task_wait\obj\Debug\Labs_task_wait.pdb

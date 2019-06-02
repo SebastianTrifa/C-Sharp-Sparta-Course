@@ -1,10 +1,10 @@
-﻿SELECT CustomerId, CompanyName, Address, City, Region, PostalCode, Country FROM Customers 
+﻿SELECT CustomerId, CompanyName, Address, City, Region, PostalCode, Country FROM Customers
 WHERE City IN ('London', 'Paris');
 
-SELECT * FROM Products 
+SELECT * FROM Products
 WHERE LOWER(QuantityPerUnit) LIKE '%bottle%';
 
-SELECT Products.*, CompanyName, Country FROM Products 
+SELECT Products.*, CompanyName, Country FROM Products
 INNER JOIN Suppliers ON Products.SupplierID = Suppliers.SupplierID
 WHERE LOWER(QuantityPerUnit) LIKE '%bottle%';
 
@@ -13,7 +13,7 @@ INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID
 GROUP BY Products.CategoryID, Categories.CategoryName
 ORDER BY Number DESC;
 
-SELECT TitleOfCourtesy+' '+FirstName+' '+LastName AS Employee_Name, City FROM Employees 
+SELECT TitleOfCourtesy+' '+FirstName+' '+LastName AS Employee_Name, City FROM Employees
 WHERE Country LIKE 'UK';
 
 SELECT Region.RegionDescription, ROUND(SUM([Order Details].Quantity*[Order Details].UnitPrice*(1-[Order Details].Discount)),0) AS Total_Orders FROM Orders
@@ -30,7 +30,7 @@ WHERE Freight>100 AND ShipCountry IN ('USA','UK');
 SELECT OrderID, Discount FROM [Order Details]
 WHERE Discount = (SELECT MAX(Discount) AS MaxDisc FROM [Order Details]);
 
-
+DROP TABLE "Spartans";
 
 CREATE TABLE "Spartans"(
 "ID" "int" NOT NULL IDENTITY,
@@ -54,7 +54,7 @@ INSERT INTO Spartans (Title, First_Name, Last_Name, University, Course, Degree_C
 
 
 
-select Emp.TitleOfCourtesy, Emp.FirstName, Emp.LastName, Employees.TitleOfCourtesy, Employees.FirstName, Employees.LastName from Employees AS Emp
+SELECT Emp.TitleOfCourtesy, Emp.FirstName, Emp.LastName, Employees.TitleOfCourtesy, Employees.FirstName, Employees.LastName from Employees AS Emp
 LEFT JOIN Employees ON Employees.EmployeeID=Emp.ReportsTo;
 
 SELECT Suppliers.CompanyName, ROUND(SUM([Order Details].Quantity*[Order Details].UnitPrice*(1-[Order Details].Discount)),0) AS Total_Value_Orders FROM Suppliers

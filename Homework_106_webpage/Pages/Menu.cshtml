@@ -1,0 +1,70 @@
+﻿@page
+@model Homework_108_webpage.Pages.MenuModel
+@{
+    ViewData["Title"] = "Menu";
+}
+
+<div class="flex-out">
+    <figure>
+        <a href="https://localhost:44327/London"><img src="~/images/1000px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg" /></a>
+        <figcaption class="fig">London</figcaption>
+    </figure>
+    <figure>
+        <a href="https://localhost:44327/Mexico"><img src="~/images/700px-Rio_De_Janeiro_-_Rafael_Defavari.jpg" /></a>
+        <figcaption class="fig">Mexico City</figcaption>
+    </figure>
+    <figure>
+        <a href="https://localhost:44327/Rio"><img src="~/images/GettyImages_1064650260.0.jpg" /></a>
+        <figcaption class="fig">Rio de Janeiro</figcaption>
+    </figure>
+</div>
+
+<form action="/Customers" method="get">
+    City: <input type="text" name="city" id="city"><br>
+    <input type="submit" value="search" id="submit">
+</form>
+
+<style>
+    input#city{
+        margin-bottom: 20px;
+    }
+</style>
+
+<style>
+    input#submit {
+        margin-left: 20px;
+    }
+</style>
+
+<style>
+    figcaption.fig{
+        margin-left:10px
+    }
+</style>
+
+<style>
+    img {
+        display: flex;
+        height: 200px;
+        width: 200px;
+        margin: 10px;
+        background-color: orange;
+        justify-content: center;
+    }
+</style>
+
+<script>
+    navigator
+</script>
+
+<style>
+    div.flex-out {
+        display: flex;
+        height: 220px;
+        width: 700px;
+        margin: 50px;
+        background-color: darkblue;
+        justify-content: center;
+    }
+</style>
+

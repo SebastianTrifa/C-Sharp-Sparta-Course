@@ -7,6 +7,7 @@ using Labs_hw_Classes;
 using Labs_nunit_sqltestbase;
 using Labs_rabbits;
 using System.IO;
+using Homework_106_Classes;
 
 namespace Tests
 {
@@ -85,6 +86,12 @@ namespace Tests
             {
                 Assert.AreEqual(actual[i], expected[i]);
             }
+        }
+        [TestCase("hello",3,-1)]
+        public void Homework_106(string input, int index, int expected)
+        {
+            int actual =  ASCII.value(input, index);
+            Assert.AreEqual(expected, actual);
         }
     }
 }

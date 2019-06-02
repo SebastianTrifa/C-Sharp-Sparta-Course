@@ -1,0 +1,46 @@
+﻿@page
+@model Lab_83_addrecord.Pages.Shared.AddCustomerModel
+@{
+    ViewData["Title"] = "AddCustomer";
+}
+
+<h2>DeleteCustomer</h2>
+
+<div class="row">
+    <p>Add a new customer</p>
+    <form action="AddCustomer" method="GET">
+        <div class="form-group">
+            <label for="customerID">CustomerID</label>
+            <input type="text" name="customerID" class="form-control" id="customerID" placeholder="ZYX2A" />
+        </div>
+        <div class="form-group">
+            <label for="customerName">Customer Name</label>
+            <input type="text" name="customerName" class="form-control" id="customerName" placeholder="Name" />
+        </div>
+        <div class="form-group">
+            <label for="companyName">Company Name</label>
+            <input type="text" name="companyName" class="form-control" id="companyName" placeholder="Company" />
+        </div>
+        <div class="form-group">
+            <label for="City">City</label>
+            <input type="text" name="city" class="form-control" id="city" placeholder="City" />
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+    </form>
+</div>
+
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>Company Name</th>
+        <th>Contact Name</th>
+    </tr>
+    @foreach (var c in Model.customers)
+    {
+        <tr>
+            <td>@c.CompanyName</td>
+            <td>@c.ContactName</td>
+        </tr>
+    }
+</table>
+
+

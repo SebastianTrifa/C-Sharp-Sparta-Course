@@ -1,0 +1,139 @@
+﻿@page
+@model Labs_asp.Pages.SebModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<p style="font-weight:bold">@ViewData["Value"]</p>
+
+<p style="font-style:italic">@ViewBag.Value2</p>
+
+<p>WE can also use 'em' for emphasis bold <span>@ViewBag.Value</span></p>
+
+<p>'P' ALWAYS STARTS A NEW LINE BLOCK ELEMENT<p>@ViewBag.Value</p></p>
+
+<p>so does h1 <h1>@ViewBag.Value</h1></p>
+
+<p>To underline <span style="text-decoration:underline">text-decoration:underline</span></p>
+
+<h1>Page</h1>
+
+<p>Some text</p>
+
+<h2>This is also Bootstrap</h2>
+
+<button class="btn-success">Click Here</button>
+<button class="btn-danger">Click Here</button>
+<button class="btn-default">Click Here</button>
+<button class="btn-info">Click Here</button>
+<button class="btn-primary">Click Here</button>
+
+<table>
+    <tr>
+        <th>some</th>
+        <th>text</th>
+        <th>here</th>
+        <th>in</th>
+        <th>this</th>
+        <th>table</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+<h2>bootstrap method</h2>
+
+<table class="table-hover table-bordered table-striped">
+    <tr>
+        <th>some</th>
+        <th>text</th>
+        <th>here</th>
+        <th>in</th>
+        <th>this</th>
+        <th>table</th>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+<h1>Using Razor</h1>
+
+<h2>The 'at' symbol can be used to write c# code on top of html</h2>
+
+<h3>@DateTime.Now</h3>
+
+@{
+    var d = DateTime.Now;
+    d = d.AddDays(2);
+}
+
+<h4>@d.ToShortDateString()</h4>
+
+<ul>
+    <li>First</li>
+    <li>Second</li>
+    <li>Third</li>
+    @for (int i = 0; i < 10; i++)
+    {
+        <li>i</li>
+    }
+</ul>

@@ -7,6 +7,30 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="buttonCustomers" Content="Customers" Grid.Row="0" Grid.Column="0" Click="CustomersClick"></Button>
+        <Button x:Name="buttonProducts" Content="Products" Grid.Row="0" Grid.Column="1" Click="ProductsClick"></Button>
+        <Button x:Name="buttonEmployees" Content="Employees" Grid.Row="0" Grid.Column="2" Click="EmployeesClick"></Button>
+        <Button x:Name="buttonSuppliers" Content="Suppliers" Grid.Row="0" Grid.Column="3" Click="SuppliersClick"></Button>
+        <StackPanel x:Name="StackPanelCustomers" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" Background="#550233">
+            <ListBox x:Name="ListBoxCustomers" SelectionChanged="CustomersSelected" ></ListBox>
+            <ListBox x:Name="ListBoxOrderDetails"></ListBox>
+            <ListBox x:Name="ListBoxProducts"></ListBox>
+            <ListBox x:Name="ListBoxEmployees"></ListBox>
+            <ListBox x:Name="ListBoxOrders" SelectionChanged="OrderDetailsSelected"></ListBox>
+            <ListBox x:Name="ListBoxSuppliers"></ListBox>
+        </StackPanel>
+        <!--<StackPanel x:Name="StackPanelProducts" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" Background="#553322"></StackPanel>
+        <StackPanel x:Name="StackPanelEmployees" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" Background="#553322"></StackPanel>
+        <StackPanel x:Name="StackPanelSuppliers" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" Background="#553322"></StackPanel>-->
     </Grid>
 </Window>

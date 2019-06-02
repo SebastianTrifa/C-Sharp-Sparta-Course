@@ -1,0 +1,38 @@
+﻿@page
+@model Homework_108_webpage.Pages.RioModel
+@{
+    ViewData["Title"] = "Rio";
+}
+
+<h1>Our customers in Rio de Janeiro</h1>
+
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>Contact Name</th>
+        <th>Company Name</th>
+        <th>Adress</th>
+        <th>Postal Code</th>
+    </tr>
+    @foreach (var c in Model.customers)
+    {
+        <tr>
+            <td>@c.CompanyName</td>
+            <td>@c.CompanyName</td>
+            <td>@c.Address</td>
+            <td>@c.PostalCode</td>
+        </tr>
+    }
+</table>
+
+<ul>
+    <li>The first custimer delivers sausages</li>
+    <li>The second delivers broccoli</li>
+    <li>The third delivers pastry</li>
+</ul>
+
+<style>
+    table {
+        margin: 25px,
+    }
+</style>
+

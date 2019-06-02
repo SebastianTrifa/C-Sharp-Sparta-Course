@@ -1,0 +1,7 @@
+C:\c-\Labs_checked\bin\Debug\Labs_checked.exe.config
+C:\c-\Labs_checked\bin\Debug\Labs_checked.exe
+C:\c-\Labs_checked\bin\Debug\Labs_checked.pdb
+C:\c-\Labs_checked\obj\Debug\Labs_checked.csprojAssemblyReference.cache
+C:\c-\Labs_checked\obj\Debug\Labs_checked.csproj.CoreCompileInputs.cache
+C:\c-\Labs_checked\obj\Debug\Labs_checked.exe
+C:\c-\Labs_checked\obj\Debug\Labs_checked.pdb

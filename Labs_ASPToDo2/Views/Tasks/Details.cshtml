@@ -1,0 +1,66 @@
+﻿@model Labs_ASPToDo2.Task
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Task</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TaskDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaskDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Done)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Done)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateStarted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateStarted)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateFinished)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateFinished)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category.CategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User.UserName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TaskId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

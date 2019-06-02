@@ -1,0 +1,7 @@
+C:\c-\Labs_lazy_loading\bin\Debug\Labs_lazy_loading.exe.config
+C:\c-\Labs_lazy_loading\bin\Debug\Labs_lazy_loading.exe
+C:\c-\Labs_lazy_loading\bin\Debug\Labs_lazy_loading.pdb
+C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.csprojAssemblyReference.cache
+C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.csproj.CoreCompileInputs.cache
+C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.exe
+C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.pdb

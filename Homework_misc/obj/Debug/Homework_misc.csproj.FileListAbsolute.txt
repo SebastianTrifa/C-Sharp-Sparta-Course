@@ -1,0 +1,7 @@
+C:\c-\Homework_misc\bin\Debug\Homework_misc.exe.config
+C:\c-\Homework_misc\bin\Debug\Homework_misc.exe
+C:\c-\Homework_misc\bin\Debug\Homework_misc.pdb
+C:\c-\Homework_misc\obj\Debug\Homework_misc.csprojAssemblyReference.cache
+C:\c-\Homework_misc\obj\Debug\Homework_misc.csproj.CoreCompileInputs.cache
+C:\c-\Homework_misc\obj\Debug\Homework_misc.exe
+C:\c-\Homework_misc\obj\Debug\Homework_misc.pdb

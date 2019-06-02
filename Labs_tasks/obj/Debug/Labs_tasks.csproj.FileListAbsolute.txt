@@ -1,0 +1,7 @@
+C:\c-\Labs_tasks\bin\Debug\Labs_tasks.exe.config
+C:\c-\Labs_tasks\bin\Debug\Labs_tasks.exe
+C:\c-\Labs_tasks\bin\Debug\Labs_tasks.pdb
+C:\c-\Labs_tasks\obj\Debug\Labs_tasks.csproj.CoreCompileInputs.cache
+C:\c-\Labs_tasks\obj\Debug\Labs_tasks.exe
+C:\c-\Labs_tasks\obj\Debug\Labs_tasks.pdb
+C:\c-\Labs_tasks\obj\Debug\Labs_tasks.csprojAssemblyReference.cache

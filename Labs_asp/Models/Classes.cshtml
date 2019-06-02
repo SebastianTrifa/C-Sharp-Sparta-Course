@@ -1,0 +1,21 @@
+﻿
+@page
+@model Labs_asp.Models.ClassesModel
+@{
+}
+
+<table class="table-hover table-striped table-bordered">
+    <tr>
+        <th>List</th>
+    </tr>
+    <tr>
+        @foreach (string s in Model.name)
+        {
+            <td>@s</td>
+        }
+        @foreach (string s in Model.company)
+        {
+            <td>@s</td>
+        }
+    </tr>
+</table>

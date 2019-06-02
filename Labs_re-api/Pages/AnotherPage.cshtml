@@ -1,0 +1,19 @@
+﻿@page
+@model Labs_ReDoASP.Pages.AnotherPageModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<style>
+    div.block {
+        width: 80%;
+        padding: 5vh 10vw 5vh 10vw; /* top right bottom left*/
+        background-color: lightblue;
+        text-align: center;
+        font-size: 3em;
+    }
+</style>
+
+<div class="block">
+    @Model.Property
+</div>

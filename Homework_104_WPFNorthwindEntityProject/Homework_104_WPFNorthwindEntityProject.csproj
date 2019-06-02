@@ -35,8 +35,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -55,6 +64,50 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Category.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerDemographic.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NortwindMOdel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Order_Detail.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Region.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Shipper.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Spartan.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="table1.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Territory.cs">
+      <DependentUpon>NortwindMOdel.tt</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -69,6 +122,16 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NortwindMOdel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NortwindMOdel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NortwindMOdel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NortwindMOdel.edmx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -86,6 +149,14 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EntityDeploy Include="NortwindMOdel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>NortwindMOdel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="NortwindMOdel.edmx.diagram">
+      <DependentUpon>NortwindMOdel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -93,6 +164,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NortwindMOdel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>NortwindMOdel.Context.cs</LastGenOutput>
+      <DependentUpon>NortwindMOdel.edmx</DependentUpon>
+    </Content>
+    <Content Include="NortwindMOdel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>NortwindMOdel.edmx</DependentUpon>
+      <LastGenOutput>NortwindMOdel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

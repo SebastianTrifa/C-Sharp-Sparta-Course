@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ToDoModelStoreContainer" CdmEntityContainer="ToDoEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="ToDoModel.Category">
+        <MappingFragment StoreEntitySet="Categories">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tasks">
+      <EntityTypeMapping TypeName="ToDoModel.Task">
+        <MappingFragment StoreEntitySet="Tasks">
+          <ScalarProperty Name="TaskId" ColumnName="TaskId" />
+          <ScalarProperty Name="TaskDescription" ColumnName="TaskDescription" />
+          <ScalarProperty Name="Done" ColumnName="Done" />
+          <ScalarProperty Name="DateStarted" ColumnName="DateStarted" />
+          <ScalarProperty Name="DateFinished" ColumnName="DateFinished" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ToDoModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

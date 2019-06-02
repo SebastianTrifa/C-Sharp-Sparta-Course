@@ -1,0 +1,12 @@
+﻿@page
+@model Labs_asp.Pages.OrderByModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<ul>
+    @foreach (var c in Model.newlist)
+    {
+        <li>@c.ContactName</li>
+    }
+</ul>

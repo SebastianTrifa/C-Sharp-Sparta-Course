@@ -1646,6 +1646,15 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "Homework_106_Classes/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Homework_106_Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Homework_106_Classes.dll": {}
+        }
+      },
       "Labs_hw_01/1.0.0": {
         "type": "project",
         "compile": {
@@ -5842,6 +5851,11 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "Homework_106_Classes/1.0.0": {
+      "type": "project",
+      "path": "../Homework_106_Classes/Homework_106_Classes.csproj",
+      "msbuildProject": "../Homework_106_Classes/Homework_106_Classes.csproj"
+    },
     "Labs_hw_01/1.0.0": {
       "type": "project",
       "path": "../Labs_hw_01/Labs_hw_01.csproj",
@@ -5875,6 +5889,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Homework_106_Classes >= 1.0.0",
       "Labs_hw_01 >= 1.0.0",
       "Labs_hw_Classes >= 1.0.0",
       "Labs_hw_Polymorphism >= 1.0.0",
@@ -5917,6 +5932,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "C:\\c-\\Homework_106_Classes\\Homework_106_Classes.csproj": {
+              "projectPath": "C:\\c-\\Homework_106_Classes\\Homework_106_Classes.csproj"
+            },
             "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj": {
               "projectPath": "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj"
             },

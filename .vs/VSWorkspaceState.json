@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Labs_re-api",
+    "\\Labs_re-api\\wwwroot",
+    "\\Labs_re-api\\wwwroot\\images"
   ],
+  "SelectedNode": "\\Labs_re-api\\wwwroot\\images\\MexicoCity.jpg",
   "PreviewInSolutionExplorer": false
 }

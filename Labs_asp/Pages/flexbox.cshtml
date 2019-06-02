@@ -1,0 +1,32 @@
+﻿@page
+@model Labs_asp.Pages.flexboxModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div class="flex-out">
+    <div class="flex-centre">one</div>
+    <div class="flex-centre">two</div>
+    <div class="flex-centre">three</div>
+</div>
+
+<style>
+    div.flex-centre{
+        display: flex;
+        height: 200px;
+        width: 200px;
+        margin: 10px;
+        background-color: orange;
+        justify-content: center;
+    }
+</style>
+
+<style>
+    div.flex-out {
+        display: flex;
+        height: 220px;
+        width: 700px;
+        background-color: darkblue;
+        justify-content: center;
+    }
+</style>

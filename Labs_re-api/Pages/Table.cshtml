@@ -1,0 +1,25 @@
+﻿@page
+@model Labs_ReDoASP.Pages.TableModel
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<table class="tablestyle table-bordered table-hover table-striped">
+    <tr>
+        <th>List</th>
+    </tr>
+    @foreach (string s in Model.cities)
+    {
+        <tr>
+            <td>@s</td>
+        </tr>
+    }
+</table>
+
+<style>
+    table.tablestyle {
+        align-self: center;
+        margin-top: 200px;
+    }
+</style>
+
+<img src="~/images/Fireball-10.jpg" height="200" width="200"/>
