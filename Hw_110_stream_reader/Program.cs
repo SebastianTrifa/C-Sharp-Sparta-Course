@@ -11,7 +11,9 @@ namespace Hw_110_stream_reader
     {
         static void Main(string[] args)
         {
+            string[] strings = new string[] { "a", "b"};
             Reader.Read("text.txt");
+            Reader.Write(strings, "output.txt");
         }
     }
 
@@ -31,6 +33,17 @@ namespace Hw_110_stream_reader
                 result = result.Replace(" ","");
             }
             return (numlines, result);
+        }
+
+        static public void Write(string[] strings, string path)
+        {
+            using (StreamWriter writer = new StreamWriter(path))
+            {
+                foreach(var c in strings)
+                {
+                    writer.WriteLine(c.ToString());
+                }
+            }
         }
     }
 }

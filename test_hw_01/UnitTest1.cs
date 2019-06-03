@@ -132,5 +132,11 @@ namespace Tests
             Assert.AreEqual(n, int_actual);
             Assert.AreEqual(expected, str_actual);
         }
+
+        [TestCase(new string[] {"first", "second", "third" },"output.txt")]
+        public void Hw_110_write(string[] strings, string path)
+        {
+            Reader.Write(strings, path);
+        }
     }
 }
