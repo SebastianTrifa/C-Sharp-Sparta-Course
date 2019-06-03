@@ -9,6 +9,7 @@ using Labs_rabbits;
 using System.IO;
 using Homework_106_Classes;
 using Hw_109_linq_aggregate;
+using Hw_110_stream_reader;
 
 namespace Tests
 {
@@ -121,6 +122,15 @@ namespace Tests
         {
             var actual = LinqAggregate.LinqIntersect(array1, array2);
             Assert.AreEqual(array_exp, actual);
+        }
+
+        [TestCase("text.txt",2,"hellohowareyou?Iamvery")]
+        public void Hw_110(string path, int n, string expected)
+        {
+            int int_actual = Reader.Read(path).Item1;
+            string str_actual = Reader.Read(path).Item2;
+            Assert.AreEqual(n, int_actual);
+            Assert.AreEqual(expected, str_actual);
         }
     }
 }

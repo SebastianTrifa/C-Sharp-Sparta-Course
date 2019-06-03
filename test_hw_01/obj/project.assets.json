@@ -1664,6 +1664,15 @@
           "bin/placeholder/Hw_109_linq_aggregate.dll": {}
         }
       },
+      "Hw_110_stream_reader/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Hw_110_stream_reader.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hw_110_stream_reader.dll": {}
+        }
+      },
       "Labs_hw_01/1.0.0": {
         "type": "project",
         "compile": {
@@ -5870,6 +5879,11 @@
       "path": "../Hw_109_linq_aggregate/Hw_109_linq_aggregate.csproj",
       "msbuildProject": "../Hw_109_linq_aggregate/Hw_109_linq_aggregate.csproj"
     },
+    "Hw_110_stream_reader/1.0.0": {
+      "type": "project",
+      "path": "../Hw_110_stream_reader/Hw_110_stream_reader.csproj",
+      "msbuildProject": "../Hw_110_stream_reader/Hw_110_stream_reader.csproj"
+    },
     "Labs_hw_01/1.0.0": {
       "type": "project",
       "path": "../Labs_hw_01/Labs_hw_01.csproj",
@@ -5905,6 +5919,7 @@
     ".NETCoreApp,Version=v2.1": [
       "Homework_106_Classes >= 1.0.0",
       "Hw_109_linq_aggregate >= 1.0.0",
+      "Hw_110_stream_reader >= 1.0.0",
       "Labs_hw_01 >= 1.0.0",
       "Labs_hw_Classes >= 1.0.0",
       "Labs_hw_Polymorphism >= 1.0.0",
@@ -5952,6 +5967,9 @@
             },
             "C:\\c-\\Hw_109_linq_aggregate\\Hw_109_linq_aggregate.csproj": {
               "projectPath": "C:\\c-\\Hw_109_linq_aggregate\\Hw_109_linq_aggregate.csproj"
+            },
+            "C:\\c-\\Hw_110_stream_reader\\Hw_110_stream_reader.csproj": {
+              "projectPath": "C:\\c-\\Hw_110_stream_reader\\Hw_110_stream_reader.csproj"
             },
             "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj": {
               "projectPath": "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj"

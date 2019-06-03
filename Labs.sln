@@ -143,6 +143,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_83_addrecord", "Lab_83_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw_109_linq_aggregate", "Hw_109_linq_aggregate\Hw_109_linq_aggregate.csproj", "{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw_110_stream_reader", "Hw_110_stream_reader\Hw_110_stream_reader.csproj", "{670626B2-E84B-4BE1-AC6B-D485002606D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -431,6 +433,10 @@ Global
 		{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670626B2-E84B-4BE1-AC6B-D485002606D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670626B2-E84B-4BE1-AC6B-D485002606D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670626B2-E84B-4BE1-AC6B-D485002606D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670626B2-E84B-4BE1-AC6B-D485002606D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
