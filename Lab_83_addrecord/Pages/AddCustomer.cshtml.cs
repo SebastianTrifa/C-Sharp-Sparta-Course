@@ -14,9 +14,9 @@ namespace Lab_83_addrecord.Pages.Shared
         private Northwind db;
         public List<Customer> customers;
         public Customer customer = new Customer();
-        public AddCustomerModel(Northwind InjectedContext)
+        public AddCustomerModel(Northwind AddContext)
         {
-            db = InjectedContext;
+            db = AddContext;
         }
         public IActionResult OnGet()
         {

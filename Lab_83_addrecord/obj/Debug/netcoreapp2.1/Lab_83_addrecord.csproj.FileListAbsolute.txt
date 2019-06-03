@@ -34,3 +34,9 @@ C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\Northwind.g.cshtml.cs
 C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\InjectedCustomers.g.cshtml.cs
 C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\AllCustomers.g.cshtml.cs
 C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\AddCustomer.g.cshtml.cs
+C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\DeleteCustomer.g.cshtml.cs
+C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\EditCustomer.g.cshtml.cs
+C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\Create.g.cshtml.cs
+C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\Delete.g.cshtml.cs
+C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\Details.g.cshtml.cs
+C:\c-\Lab_83_addrecord\obj\Debug\netcoreapp2.1\Razor\Pages\Edit.g.cshtml.cs

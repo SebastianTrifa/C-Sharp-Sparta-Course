@@ -1,0 +1,35 @@
+﻿@page
+@model Lab_83_addrecord.Pages.DeleteCustomerModel
+@{
+    ViewData["Title"] = "DeleteCustomer";
+}
+
+<h2>DeleteCustomer</h2>
+
+<div class="row">
+    <p>Add a new customer</p>
+    <form action="DeleteCustomer" method="GET">
+        <div class="form-group">
+            <label for="customerID">CustomerID</label>
+            <input type="text" name="customerID" class="form-control" id="customerID" placeholder="ZYX2A" />
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+    </form>
+</div>
+
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>Customer ID</th>
+        <th>Company Name</th>
+        <th>Contact Name</th>
+    </tr>
+    @foreach (var c in Model.customers)
+    {
+        <tr>
+            <td>@c.CustomerID</td>
+            <td>@c.CompanyName</td>
+            <td>@c.ContactName</td>
+        </tr>
+    }
+</table>
+

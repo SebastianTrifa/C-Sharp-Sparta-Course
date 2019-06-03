@@ -56,7 +56,7 @@ using Lab_83_addrecord;
             WriteLiteral("\r\n<h2>InjectedCustomers</h2>\r\n\r\n<div class=\"row\">\r\n    <p>Add a new customer</p>\r\n    ");
             EndContext();
             BeginContext(200, 896, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "acd7aae08eeb457b9173bd91e36a2fe7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e9011fafc5e74d2191186e1a6b17358f", async() => {
                 BeginContext(220, 869, true);
                 WriteLiteral(@"
         <div class=""form-group"">
