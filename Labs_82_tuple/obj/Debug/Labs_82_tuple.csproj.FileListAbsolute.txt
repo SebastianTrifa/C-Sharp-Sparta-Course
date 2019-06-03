@@ -5,3 +5,6 @@ C:\c-\Labs_82_tuple\obj\Debug\Labs_82_tuple.csprojAssemblyReference.cache
 C:\c-\Labs_82_tuple\obj\Debug\Labs_82_tuple.csproj.CoreCompileInputs.cache
 C:\c-\Labs_82_tuple\obj\Debug\Labs_82_tuple.exe
 C:\c-\Labs_82_tuple\obj\Debug\Labs_82_tuple.pdb
+C:\c-\Labs_82_tuple\bin\Debug\System.ValueTuple.dll
+C:\c-\Labs_82_tuple\bin\Debug\System.ValueTuple.xml
+C:\c-\Labs_82_tuple\obj\Debug\Labs_82_tuple.csproj.CopyComplete

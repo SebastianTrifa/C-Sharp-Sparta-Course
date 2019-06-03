@@ -12,6 +12,7 @@
     <EntitySetMapping Name="Tasks">
       <EntityTypeMapping TypeName="ToDoModel.Task">
         <MappingFragment StoreEntitySet="Tasks">
+          <ScalarProperty Name="Deadline" ColumnName="Deadline" />
           <ScalarProperty Name="TaskId" ColumnName="TaskId" />
           <ScalarProperty Name="TaskDescription" ColumnName="TaskDescription" />
           <ScalarProperty Name="Done" ColumnName="Done" />

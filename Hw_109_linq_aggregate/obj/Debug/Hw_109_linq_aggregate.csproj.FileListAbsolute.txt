@@ -1,0 +1,7 @@
+C:\c-\Hw_109_linq_aggregate\bin\Debug\Hw_109_linq_aggregate.exe.config
+C:\c-\Hw_109_linq_aggregate\bin\Debug\Hw_109_linq_aggregate.exe
+C:\c-\Hw_109_linq_aggregate\bin\Debug\Hw_109_linq_aggregate.pdb
+C:\c-\Hw_109_linq_aggregate\obj\Debug\Hw_109_linq_aggregate.csprojAssemblyReference.cache
+C:\c-\Hw_109_linq_aggregate\obj\Debug\Hw_109_linq_aggregate.csproj.CoreCompileInputs.cache
+C:\c-\Hw_109_linq_aggregate\obj\Debug\Hw_109_linq_aggregate.exe
+C:\c-\Hw_109_linq_aggregate\obj\Debug\Hw_109_linq_aggregate.pdb

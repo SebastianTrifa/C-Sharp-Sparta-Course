@@ -1,0 +1,12 @@
+C:\c-\Labs_LINQ_Join\bin\Debug\Labs_LINQ_Join.exe.config
+C:\c-\Labs_LINQ_Join\bin\Debug\Labs_LINQ_Join.exe
+C:\c-\Labs_LINQ_Join\bin\Debug\Labs_LINQ_Join.pdb
+C:\c-\Labs_LINQ_Join\bin\Debug\EntityFramework.dll
+C:\c-\Labs_LINQ_Join\bin\Debug\EntityFramework.SqlServer.dll
+C:\c-\Labs_LINQ_Join\bin\Debug\EntityFramework.xml
+C:\c-\Labs_LINQ_Join\bin\Debug\EntityFramework.SqlServer.xml
+C:\c-\Labs_LINQ_Join\obj\Debug\Labs_LINQ_Join.csprojAssemblyReference.cache
+C:\c-\Labs_LINQ_Join\obj\Debug\Labs_LINQ_Join.csproj.CoreCompileInputs.cache
+C:\c-\Labs_LINQ_Join\obj\Debug\Labs_LINQ_Join.csproj.CopyComplete
+C:\c-\Labs_LINQ_Join\obj\Debug\Labs_LINQ_Join.exe
+C:\c-\Labs_LINQ_Join\obj\Debug\Labs_LINQ_Join.pdb

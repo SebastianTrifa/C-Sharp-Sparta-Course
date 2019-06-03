@@ -1,0 +1,11 @@
+C:\c-\labs_test_01\bin\Debug\labs_test_01.exe.config
+C:\c-\labs_test_01\bin\Debug\labs_test_01.exe
+C:\c-\labs_test_01\bin\Debug\labs_test_01.pdb
+C:\c-\labs_test_01\bin\Debug\nunit.framework.dll
+C:\c-\labs_test_01\bin\Debug\nunit.framework.pdb
+C:\c-\labs_test_01\bin\Debug\nunit.framework.xml
+C:\c-\labs_test_01\obj\Debug\Labs_agetest.csprojAssemblyReference.cache
+C:\c-\labs_test_01\obj\Debug\Labs_agetest.csproj.CoreCompileInputs.cache
+C:\c-\labs_test_01\obj\Debug\Labs_agetest.csproj.CopyComplete
+C:\c-\labs_test_01\obj\Debug\labs_test_01.exe
+C:\c-\labs_test_01\obj\Debug\labs_test_01.pdb

@@ -5,3 +5,8 @@ C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.csprojAssemblyReference.cach
 C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.csproj.CoreCompileInputs.cache
 C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.exe
 C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.pdb
+C:\c-\Labs_lazy_loading\bin\Debug\EntityFramework.dll
+C:\c-\Labs_lazy_loading\bin\Debug\EntityFramework.SqlServer.dll
+C:\c-\Labs_lazy_loading\bin\Debug\EntityFramework.xml
+C:\c-\Labs_lazy_loading\bin\Debug\EntityFramework.SqlServer.xml
+C:\c-\Labs_lazy_loading\obj\Debug\Labs_lazy_loading.csproj.CopyComplete

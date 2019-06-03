@@ -21,6 +21,7 @@
     <Property Name="UserID" Type="Int32" />
     <NavigationProperty Name="Category" Relationship="Self.FK__Tasks__CategoryI__276EDEB3" FromRole="Tasks" ToRole="Categories" />
     <NavigationProperty Name="User" Relationship="Self.FK__Tasks__UserID__286302EC" FromRole="Tasks" ToRole="Users" />
+    <Property Name="Deadline" Type="DateTime" Precision="0" />
   </EntityType>
   <EntityType Name="User">
     <Key>

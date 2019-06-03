@@ -1,0 +1,12 @@
+C:\c-\Labs_LINQ2\bin\Debug\Labs_LINQ2.exe.config
+C:\c-\Labs_LINQ2\bin\Debug\Labs_LINQ2.exe
+C:\c-\Labs_LINQ2\bin\Debug\Labs_LINQ2.pdb
+C:\c-\Labs_LINQ2\bin\Debug\EntityFramework.dll
+C:\c-\Labs_LINQ2\bin\Debug\EntityFramework.SqlServer.dll
+C:\c-\Labs_LINQ2\bin\Debug\EntityFramework.xml
+C:\c-\Labs_LINQ2\bin\Debug\EntityFramework.SqlServer.xml
+C:\c-\Labs_LINQ2\obj\Debug\Labs_LINQ2.csprojAssemblyReference.cache
+C:\c-\Labs_LINQ2\obj\Debug\Labs_LINQ2.csproj.CoreCompileInputs.cache
+C:\c-\Labs_LINQ2\obj\Debug\Labs_LINQ2.csproj.CopyComplete
+C:\c-\Labs_LINQ2\obj\Debug\Labs_LINQ2.exe
+C:\c-\Labs_LINQ2\obj\Debug\Labs_LINQ2.pdb

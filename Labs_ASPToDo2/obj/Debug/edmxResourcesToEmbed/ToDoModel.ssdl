@@ -18,6 +18,7 @@
     <Property Name="DateFinished" Type="date" />
     <Property Name="CategoryID" Type="int" />
     <Property Name="UserID" Type="int" />
+    <Property Name="Deadline" Type="date" />
   </EntityType>
   <EntityType Name="Users">
     <Key>
@@ -26,7 +27,7 @@
     <Property Name="UserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="UserName" Type="nvarchar" MaxLength="50" />
   </EntityType>
-  <Association Name="FK__Tasks__CategoryI__276EDEB3">
+  <Association Name="FK__Tasks__CategoryI__3B75D760">
     <End Role="Categories" Type="Self.Categories" Multiplicity="0..1" />
     <End Role="Tasks" Type="Self.Tasks" Multiplicity="*" />
     <ReferentialConstraint>
@@ -38,7 +39,7 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
-  <Association Name="FK__Tasks__UserID__286302EC">
+  <Association Name="FK__Tasks__UserID__3C69FB99">
     <End Role="Users" Type="Self.Users" Multiplicity="0..1" />
     <End Role="Tasks" Type="Self.Tasks" Multiplicity="*" />
     <ReferentialConstraint>
@@ -54,11 +55,11 @@
     <EntitySet Name="Categories" EntityType="Self.Categories" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Tasks" EntityType="Self.Tasks" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
-    <AssociationSet Name="FK__Tasks__CategoryI__276EDEB3" Association="Self.FK__Tasks__CategoryI__276EDEB3">
+    <AssociationSet Name="FK__Tasks__CategoryI__3B75D760" Association="Self.FK__Tasks__CategoryI__3B75D760">
       <End Role="Categories" EntitySet="Categories" />
       <End Role="Tasks" EntitySet="Tasks" />
     </AssociationSet>
-    <AssociationSet Name="FK__Tasks__UserID__286302EC" Association="Self.FK__Tasks__UserID__286302EC">
+    <AssociationSet Name="FK__Tasks__UserID__3C69FB99" Association="Self.FK__Tasks__UserID__3C69FB99">
       <End Role="Users" EntitySet="Users" />
       <End Role="Tasks" EntitySet="Tasks" />
     </AssociationSet>

@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v2.1": {
       "test_hw_01/1.0.0": {
         "dependencies": {
+          "Homework_106_Classes": "1.0.0",
+          "Hw_109_linq_aggregate": "1.0.0",
           "Labs_hw_01": "1.0.0",
           "Labs_hw_Classes": "1.0.0",
           "Labs_hw_Polymorphism": "1.0.0",
@@ -1037,6 +1039,16 @@
           }
         }
       },
+      "Homework_106_Classes/1.0.0": {
+        "runtime": {
+          "Homework_106_Classes.exe": {}
+        }
+      },
+      "Hw_109_linq_aggregate/1.0.0": {
+        "runtime": {
+          "Hw_109_linq_aggregate.exe": {}
+        }
+      },
       "Labs_hw_01/1.0.0": {
         "runtime": {
           "Labs_hw_01.exe": {}
@@ -1571,6 +1583,16 @@
       "sha512": "sha512-A/uxsWi/Ifzkmd4ArTLISMbfFs6XpRPsXZonrIqyTY70xi8t+mDtvSM5Os0RqyRDobjMBwIDHDL4NOIbkDwf7A==",
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
+    },
+    "Homework_106_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hw_109_linq_aggregate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Labs_hw_01/1.0.0": {
       "type": "project",

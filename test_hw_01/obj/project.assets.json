@@ -1655,6 +1655,15 @@
           "bin/placeholder/Homework_106_Classes.dll": {}
         }
       },
+      "Hw_109_linq_aggregate/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Hw_109_linq_aggregate.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hw_109_linq_aggregate.dll": {}
+        }
+      },
       "Labs_hw_01/1.0.0": {
         "type": "project",
         "compile": {
@@ -5856,6 +5865,11 @@
       "path": "../Homework_106_Classes/Homework_106_Classes.csproj",
       "msbuildProject": "../Homework_106_Classes/Homework_106_Classes.csproj"
     },
+    "Hw_109_linq_aggregate/1.0.0": {
+      "type": "project",
+      "path": "../Hw_109_linq_aggregate/Hw_109_linq_aggregate.csproj",
+      "msbuildProject": "../Hw_109_linq_aggregate/Hw_109_linq_aggregate.csproj"
+    },
     "Labs_hw_01/1.0.0": {
       "type": "project",
       "path": "../Labs_hw_01/Labs_hw_01.csproj",
@@ -5890,6 +5904,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Homework_106_Classes >= 1.0.0",
+      "Hw_109_linq_aggregate >= 1.0.0",
       "Labs_hw_01 >= 1.0.0",
       "Labs_hw_Classes >= 1.0.0",
       "Labs_hw_Polymorphism >= 1.0.0",
@@ -5934,6 +5949,9 @@
           "projectReferences": {
             "C:\\c-\\Homework_106_Classes\\Homework_106_Classes.csproj": {
               "projectPath": "C:\\c-\\Homework_106_Classes\\Homework_106_Classes.csproj"
+            },
+            "C:\\c-\\Hw_109_linq_aggregate\\Hw_109_linq_aggregate.csproj": {
+              "projectPath": "C:\\c-\\Hw_109_linq_aggregate\\Hw_109_linq_aggregate.csproj"
             },
             "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj": {
               "projectPath": "C:\\c-\\Labs_hw_01\\Labs_hw_01.csproj"

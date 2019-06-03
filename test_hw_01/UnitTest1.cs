@@ -8,6 +8,7 @@ using Labs_nunit_sqltestbase;
 using Labs_rabbits;
 using System.IO;
 using Homework_106_Classes;
+using Hw_109_linq_aggregate;
 
 namespace Tests
 {
@@ -87,11 +88,39 @@ namespace Tests
                 Assert.AreEqual(actual[i], expected[i]);
             }
         }
+
         [TestCase("hello",3,-1)]
         public void Homework_106(string input, int index, int expected)
         {
             int actual =  ASCII.value(input, index);
             Assert.AreEqual(expected, actual);
+        }
+
+        [TestCase(new int[] { 1, 2, 3, 4, 5, 6}, 21)]
+        [TestCase(new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9}, 45)]
+        [TestCase(new int[] { 1, 2, 3, 4}, 10)]
+        public void Hw_109_LINQ_Aggregate(int[] array, int expected)
+        {
+            var actual = LinqAggregate.LinqAggregateSum(array);
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestCase(new string[] {"a", "b", "c" }, new string[] { "b", "c", "d" }, new string[] { "a", "b", "c", "d" })]
+        [TestCase(new string[] {"1", "2", "4", "5" }, new string[] { "b", "c", "d" }, new string[] {"1", "2", "4", "5", "b", "c", "d"})]
+        [TestCase(new string[] {"1", "2", "three", "4" }, new string[] { "1", "2", "3" }, new string[] { "1", "2", "three", "4", "3"})]
+        public void Hw_109_LINQ_Union(string[] array1, string[] array2, string[] array_exp)
+        {
+            var actual = LinqAggregate.LinqUnion(array1, array2);
+            Assert.AreEqual(array_exp, actual);
+        }
+
+        [TestCase(new string[] { "a", "b", "c" }, new string[] { "b", "c", "d" }, new string[] { "b", "c" })]
+        [TestCase(new string[] { "1", "2", "4", "5" }, new string[] { "b", "c", "d" }, new string[] { })]
+        [TestCase(new string[] { "1", "2", "three", "4" }, new string[] { "1", "2", "3" }, new string[] { "1", "2" })]
+        public void Hw_109_LINQ_Intersect(string[] array1, string[] array2, string[] array_exp)
+        {
+            var actual = LinqAggregate.LinqIntersect(array1, array2);
+            Assert.AreEqual(array_exp, actual);
         }
     }
 }

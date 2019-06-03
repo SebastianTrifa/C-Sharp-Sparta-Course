@@ -139,7 +139,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_108_webpage", "Hom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labs_82_tuple", "Labs_82_tuple\Labs_82_tuple.csproj", "{F34F7E32-E2B2-4AD2-BB59-91890731E129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_83_addrecord", "Lab_83_addrecord\Lab_83_addrecord.csproj", "{B88742DB-9FA7-41A2-A13E-20522A899850}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab_83_addrecord", "Lab_83_addrecord\Lab_83_addrecord.csproj", "{B88742DB-9FA7-41A2-A13E-20522A899850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw_109_linq_aggregate", "Hw_109_linq_aggregate\Hw_109_linq_aggregate.csproj", "{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -425,6 +427,10 @@ Global
 		{B88742DB-9FA7-41A2-A13E-20522A899850}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B88742DB-9FA7-41A2-A13E-20522A899850}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B88742DB-9FA7-41A2-A13E-20522A899850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA967CA-EBF5-4BA8-9828-8C0110F2A7FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -29,3 +29,9 @@ C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_nunit_sqltestbase.exe.config
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_rabbits.exe
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_rabbits.pdb
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Labs_rabbits.exe.config
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Homework_106_Classes.exe
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_109_linq_aggregate.exe
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Homework_106_Classes.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Homework_106_Classes.exe.config
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_109_linq_aggregate.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_109_linq_aggregate.exe.config
