@@ -1,0 +1,10 @@
+C:\c-\Labs_92_XML\bin\Debug\netcoreapp2.1\Labs_92_XML.deps.json
+C:\c-\Labs_92_XML\bin\Debug\netcoreapp2.1\Labs_92_XML.runtimeconfig.json
+C:\c-\Labs_92_XML\bin\Debug\netcoreapp2.1\Labs_92_XML.runtimeconfig.dev.json
+C:\c-\Labs_92_XML\bin\Debug\netcoreapp2.1\Labs_92_XML.dll
+C:\c-\Labs_92_XML\bin\Debug\netcoreapp2.1\Labs_92_XML.pdb
+C:\c-\Labs_92_XML\obj\Debug\netcoreapp2.1\Labs_92_XML.csproj.CoreCompileInputs.cache
+C:\c-\Labs_92_XML\obj\Debug\netcoreapp2.1\Labs_92_XML.AssemblyInfoInputs.cache
+C:\c-\Labs_92_XML\obj\Debug\netcoreapp2.1\Labs_92_XML.AssemblyInfo.cs
+C:\c-\Labs_92_XML\obj\Debug\netcoreapp2.1\Labs_92_XML.dll
+C:\c-\Labs_92_XML\obj\Debug\netcoreapp2.1\Labs_92_XML.pdb

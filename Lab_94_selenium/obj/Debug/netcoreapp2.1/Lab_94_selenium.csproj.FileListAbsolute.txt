@@ -1,0 +1,14 @@
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\Lab_94_selenium.deps.json
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\Lab_94_selenium.runtimeconfig.json
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\Lab_94_selenium.runtimeconfig.dev.json
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\Lab_94_selenium.dll
+C:\c-\Lab_94_selenium\obj\Debug\netcoreapp2.1\Lab_94_selenium.csproj.CoreCompileInputs.cache
+C:\c-\Lab_94_selenium\obj\Debug\netcoreapp2.1\Lab_94_selenium.AssemblyInfoInputs.cache
+C:\c-\Lab_94_selenium\obj\Debug\netcoreapp2.1\Lab_94_selenium.AssemblyInfo.cs
+C:\c-\Lab_94_selenium\obj\Debug\netcoreapp2.1\Lab_94_selenium.csprojAssemblyReference.cache
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\Lab_94_selenium.pdb
+C:\c-\Lab_94_selenium\obj\Debug\netcoreapp2.1\Lab_94_selenium.dll
+C:\c-\Lab_94_selenium\obj\Debug\netcoreapp2.1\Lab_94_selenium.pdb
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\c-\Lab_94_selenium\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll

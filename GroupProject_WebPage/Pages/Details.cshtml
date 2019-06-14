@@ -1,0 +1,49 @@
+﻿@page
+@model GroupProject_WebPage.NewFolder.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Users</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Users.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Users.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Users.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Users.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Users.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Users.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Users.CohortID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Users.CohortID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Users.RoleID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Users.RoleID)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Users.UserID">Edit</a> |
+    <a asp-page="./Users">Back to List</a>
+</div>

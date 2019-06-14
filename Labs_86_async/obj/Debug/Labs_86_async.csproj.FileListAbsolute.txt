@@ -1,0 +1,7 @@
+C:\c-\Labs_86_async\bin\Debug\Labs_86_async.exe.config
+C:\c-\Labs_86_async\bin\Debug\Labs_86_async.exe
+C:\c-\Labs_86_async\bin\Debug\Labs_86_async.pdb
+C:\c-\Labs_86_async\obj\Debug\Labs_86_async.csprojAssemblyReference.cache
+C:\c-\Labs_86_async\obj\Debug\Labs_86_async.csproj.CoreCompileInputs.cache
+C:\c-\Labs_86_async\obj\Debug\Labs_86_async.exe
+C:\c-\Labs_86_async\obj\Debug\Labs_86_async.pdb

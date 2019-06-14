@@ -1,0 +1,11 @@
+C:\c-\Labs_93_Entity_XML\bin\Debug\netcoreapp2.1\Labs_93_Entity_XML.deps.json
+C:\c-\Labs_93_Entity_XML\bin\Debug\netcoreapp2.1\Labs_93_Entity_XML.runtimeconfig.json
+C:\c-\Labs_93_Entity_XML\bin\Debug\netcoreapp2.1\Labs_93_Entity_XML.runtimeconfig.dev.json
+C:\c-\Labs_93_Entity_XML\bin\Debug\netcoreapp2.1\Labs_93_Entity_XML.dll
+C:\c-\Labs_93_Entity_XML\obj\Debug\netcoreapp2.1\Labs_93_Entity_XML.csproj.CoreCompileInputs.cache
+C:\c-\Labs_93_Entity_XML\obj\Debug\netcoreapp2.1\Labs_93_Entity_XML.AssemblyInfoInputs.cache
+C:\c-\Labs_93_Entity_XML\obj\Debug\netcoreapp2.1\Labs_93_Entity_XML.AssemblyInfo.cs
+C:\c-\Labs_93_Entity_XML\obj\Debug\netcoreapp2.1\Labs_93_Entity_XML.csprojAssemblyReference.cache
+C:\c-\Labs_93_Entity_XML\bin\Debug\netcoreapp2.1\Labs_93_Entity_XML.pdb
+C:\c-\Labs_93_Entity_XML\obj\Debug\netcoreapp2.1\Labs_93_Entity_XML.dll
+C:\c-\Labs_93_Entity_XML\obj\Debug\netcoreapp2.1\Labs_93_Entity_XML.pdb

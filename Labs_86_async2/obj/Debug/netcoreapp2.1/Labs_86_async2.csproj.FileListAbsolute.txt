@@ -1,0 +1,11 @@
+C:\c-\Labs_86_async2\bin\Debug\netcoreapp2.1\Labs_86_async2.deps.json
+C:\c-\Labs_86_async2\bin\Debug\netcoreapp2.1\Labs_86_async2.runtimeconfig.json
+C:\c-\Labs_86_async2\bin\Debug\netcoreapp2.1\Labs_86_async2.runtimeconfig.dev.json
+C:\c-\Labs_86_async2\bin\Debug\netcoreapp2.1\Labs_86_async2.dll
+C:\c-\Labs_86_async2\bin\Debug\netcoreapp2.1\Labs_86_async2.pdb
+C:\c-\Labs_86_async2\obj\Debug\netcoreapp2.1\Labs_86_async2.csproj.CoreCompileInputs.cache
+C:\c-\Labs_86_async2\obj\Debug\netcoreapp2.1\Labs_86_async2.AssemblyInfoInputs.cache
+C:\c-\Labs_86_async2\obj\Debug\netcoreapp2.1\Labs_86_async2.AssemblyInfo.cs
+C:\c-\Labs_86_async2\obj\Debug\netcoreapp2.1\Labs_86_async2.dll
+C:\c-\Labs_86_async2\obj\Debug\netcoreapp2.1\Labs_86_async2.pdb
+C:\c-\Labs_86_async2\obj\Debug\netcoreapp2.1\Labs_86_async2.csprojAssemblyReference.cache

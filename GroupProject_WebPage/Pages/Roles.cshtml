@@ -1,0 +1,37 @@
+﻿@page
+@model GroupProject_WebPage.Pages.RolesModel
+@{
+    ViewData["Title"] = "Roles";
+}
+
+<h2>Roles</h2>
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>Role Name</th>
+    </tr>
+    @foreach (var c in Model.roles)
+    {
+        <tr>
+            <td>@c.RoleName</td>
+        </tr>
+    }
+</table>
+
+<ul class="pagination">
+    <li><a href="https://localhost:44318/AllCustomers?page=1" class="asp">First</a></li>
+    <li><a href="https://localhost:44318/AllCustomers?page=@(Model.current - 1)" class="asp">Previous</a></li>
+    <li>
+        <a><input name="pagine" id="page" onchange="Input()" value="@(Model.current)" />/@(Model.last)</a>
+    </li>
+    <li><a href="https://localhost:44318/AllCustomers?page=@(Model.current + 1)" class="asp">Next</a></li>
+    <li><a href="https://localhost:44318/AllCustomers?page=@(Model.last)" class="asp">Last</a></li>
+</ul>
+
+<style>
+    input#page {
+        height: 20px;
+        width: 30px;
+    }
+</style>
+
+

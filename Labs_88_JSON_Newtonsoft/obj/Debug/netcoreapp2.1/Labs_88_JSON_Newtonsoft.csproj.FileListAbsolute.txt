@@ -1,0 +1,11 @@
+C:\c-\Labs_88_JSON_Newtonsoft\bin\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.deps.json
+C:\c-\Labs_88_JSON_Newtonsoft\bin\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.runtimeconfig.json
+C:\c-\Labs_88_JSON_Newtonsoft\bin\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.runtimeconfig.dev.json
+C:\c-\Labs_88_JSON_Newtonsoft\bin\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.dll
+C:\c-\Labs_88_JSON_Newtonsoft\obj\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.csproj.CoreCompileInputs.cache
+C:\c-\Labs_88_JSON_Newtonsoft\obj\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.AssemblyInfoInputs.cache
+C:\c-\Labs_88_JSON_Newtonsoft\obj\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.AssemblyInfo.cs
+C:\c-\Labs_88_JSON_Newtonsoft\bin\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.pdb
+C:\c-\Labs_88_JSON_Newtonsoft\obj\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.csprojAssemblyReference.cache
+C:\c-\Labs_88_JSON_Newtonsoft\obj\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.dll
+C:\c-\Labs_88_JSON_Newtonsoft\obj\Debug\netcoreapp2.1\Labs_88_JSON_Newtonsoft.pdb

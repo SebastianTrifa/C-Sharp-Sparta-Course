@@ -1,0 +1,45 @@
+﻿@page
+@model GroupProject_WebPage.Pages.UsersModel
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h2>Users</h2>
+<table class="table table-bordered table-striped table-hover">
+    <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Email Name</th>
+    </tr>
+    @foreach (var c in Model.users)
+    {
+    <tr>
+        <td>@c.FirstName</td>
+        <td>@c.LastName</td>
+        <td>@c.Email</td>
+        <td>
+            <a asp-page="./Details" asp-route-id="@c.UserID">Details</a> |
+            <a asp-page="./Specialisations" asp-route-id="@c.UserID">Specs</a> |
+            <a asp-page="./Cohorts" asp-route-id="@c.UserID">Cohorts</a>
+        </td>
+    </tr>
+    }
+</table>
+
+<ul class="pagination">
+    <li><a href="https://localhost:44318/AllCustomers?page=1" class="asp">First</a></li>
+    <li><a href="https://localhost:44318/AllCustomers?page=@(Model.current - 1)" class="asp">Previous</a></li>
+    <li>
+        <a><input name="pagine" id="page" onchange="Input()" value="@(Model.current)" />/@(Model.last)</a>
+    </li>
+    <li><a href="https://localhost:44318/AllCustomers?page=@(Model.current + 1)" class="asp">Next</a></li>
+    <li><a href="https://localhost:44318/AllCustomers?page=@(Model.last)" class="asp">Last</a></li>
+</ul>
+
+<style>
+    input#page {
+        height: 20px;
+        width: 30px;
+    }
+</style>
+

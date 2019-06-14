@@ -17,6 +17,7 @@ namespace Lab_83_addrecord.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            System.Diagnostics.Debug.WriteLine($">>>> {System.Environment.CurrentDirectory}");
             string path = System.IO.Path.Combine(System.Environment.CurrentDirectory, "Northwind.db");
             optionsBuilder.UseSqlServer(@"Data Source=(localdb)\mssqllocaldb;" + "Initial Catalog=Northwind;" + "Integrated Security=true;" + "MultipleActiveResultSets=true;");
         }

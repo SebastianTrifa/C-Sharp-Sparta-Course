@@ -35,3 +35,6 @@ C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Homework_106_Classes.pdb
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Homework_106_Classes.exe.config
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_109_linq_aggregate.pdb
 C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_109_linq_aggregate.exe.config
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_110_stream_reader.exe
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_110_stream_reader.pdb
+C:\c-\test_hw_01\bin\Debug\netcoreapp2.1\Hw_110_stream_reader.exe.config

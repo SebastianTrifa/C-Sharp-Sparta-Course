@@ -10,6 +10,7 @@
         "dependencies": {
           "Homework_106_Classes": "1.0.0",
           "Hw_109_linq_aggregate": "1.0.0",
+          "Hw_110_stream_reader": "1.0.0",
           "Labs_hw_01": "1.0.0",
           "Labs_hw_Classes": "1.0.0",
           "Labs_hw_Polymorphism": "1.0.0",
@@ -1049,6 +1050,11 @@
           "Hw_109_linq_aggregate.exe": {}
         }
       },
+      "Hw_110_stream_reader/1.0.0": {
+        "runtime": {
+          "Hw_110_stream_reader.exe": {}
+        }
+      },
       "Labs_hw_01/1.0.0": {
         "runtime": {
           "Labs_hw_01.exe": {}
@@ -1590,6 +1596,11 @@
       "sha512": ""
     },
     "Hw_109_linq_aggregate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hw_110_stream_reader/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

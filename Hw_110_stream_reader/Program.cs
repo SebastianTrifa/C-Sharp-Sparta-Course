@@ -14,6 +14,9 @@ namespace Hw_110_stream_reader
             string[] strings = new string[] { "a", "b"};
             Reader.Read("text.txt");
             Reader.Write(strings, "output.txt");
+            File.WriteAllLines("output.txt", strings);
+            File.AppendAllLines("output.txt", strings);
+            File.WriteAllText("output.txt", "some data here");
         }
     }
 

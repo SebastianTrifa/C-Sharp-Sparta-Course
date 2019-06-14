@@ -1,0 +1,11 @@
+C:\c-\Lab_87_serialise\bin\Debug\netcoreapp2.1\Lab_87_serialise.deps.json
+C:\c-\Lab_87_serialise\bin\Debug\netcoreapp2.1\Lab_87_serialise.runtimeconfig.json
+C:\c-\Lab_87_serialise\bin\Debug\netcoreapp2.1\Lab_87_serialise.runtimeconfig.dev.json
+C:\c-\Lab_87_serialise\bin\Debug\netcoreapp2.1\Lab_87_serialise.dll
+C:\c-\Lab_87_serialise\bin\Debug\netcoreapp2.1\Lab_87_serialise.pdb
+C:\c-\Lab_87_serialise\obj\Debug\netcoreapp2.1\Lab_87_serialise.csprojAssemblyReference.cache
+C:\c-\Lab_87_serialise\obj\Debug\netcoreapp2.1\Lab_87_serialise.csproj.CoreCompileInputs.cache
+C:\c-\Lab_87_serialise\obj\Debug\netcoreapp2.1\Lab_87_serialise.AssemblyInfoInputs.cache
+C:\c-\Lab_87_serialise\obj\Debug\netcoreapp2.1\Lab_87_serialise.AssemblyInfo.cs
+C:\c-\Lab_87_serialise\obj\Debug\netcoreapp2.1\Lab_87_serialise.dll
+C:\c-\Lab_87_serialise\obj\Debug\netcoreapp2.1\Lab_87_serialise.pdb

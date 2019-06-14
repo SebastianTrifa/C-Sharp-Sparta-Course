@@ -1,0 +1,12 @@
+C:\c-\Labs_94_EntityXML\bin\Debug\Labs_94_EntityXML.exe.config
+C:\c-\Labs_94_EntityXML\bin\Debug\Labs_94_EntityXML.exe
+C:\c-\Labs_94_EntityXML\bin\Debug\Labs_94_EntityXML.pdb
+C:\c-\Labs_94_EntityXML\bin\Debug\EntityFramework.dll
+C:\c-\Labs_94_EntityXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\c-\Labs_94_EntityXML\bin\Debug\EntityFramework.xml
+C:\c-\Labs_94_EntityXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\c-\Labs_94_EntityXML\obj\Debug\Labs_94_EntityXML.csprojAssemblyReference.cache
+C:\c-\Labs_94_EntityXML\obj\Debug\Labs_94_EntityXML.csproj.CoreCompileInputs.cache
+C:\c-\Labs_94_EntityXML\obj\Debug\Labs_94_EntityXML.csproj.CopyComplete
+C:\c-\Labs_94_EntityXML\obj\Debug\Labs_94_EntityXML.exe
+C:\c-\Labs_94_EntityXML\obj\Debug\Labs_94_EntityXML.pdb

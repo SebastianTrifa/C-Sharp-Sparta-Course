@@ -1,0 +1,12 @@
+﻿@page
+@model Homework_112_MVCEntity.Controllers.HomeController;
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<ul>
+    @foreach(var c in ViewBag.CustList)
+    {
+        <li>@c</li>
+    }
+</ul>

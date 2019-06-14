@@ -57,7 +57,7 @@ using Lab_83_addrecord;
             WriteLiteral("\r\n<h2>EditCustomer</h2>\r\n\r\n<div class=\"row\">\r\n    <p>Add a new customer</p>\r\n    ");
             EndContext();
             BeginContext(185, 348, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4bc43a8096704587a167a413b64d0578", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "819670e21e5b4ff3bac4408e6ce5b683", async() => {
                 BeginContext(226, 300, true);
                 WriteLiteral(@"
         <div class=""form-group"">
@@ -88,7 +88,7 @@ using Lab_83_addrecord;
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(539, 920, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "59d28ab905bb4d7bb5184a1c9126d562", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "09285339c82a45d587884a77735debb0", async() => {
                 BeginContext(580, 205, true);
                 WriteLiteral("\r\n        <div class=\"form-group\">\r\n            <label for=\"customerName\">Customer Name</label>\r\n            <input type=\"text\" name=\"customerName\" class=\"form-control\" id=\"customerName\" placeholder=\"Name\"");
                 EndContext();
